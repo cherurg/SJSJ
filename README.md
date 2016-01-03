@@ -1,10 +1,10 @@
-# Simplified JavaScript Jargon
+# Упрощённый JavaScript-жаргон
 
-*Simplified JavaScript Jargon* (short *SJSJ*) is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words. The idea is not to replace individual documentations, but to act as some kind of glossary that can be easily referenced.
+*Упрощённый JavaScript-жаргон* (англ. *Simplified JavaScript Jargon*, сокр. *SJSJ*) — это курируемая сообществом попытка объяснить простыми словами множество сложных терминов, используемых в текущей экосистеме JavaScript. Идея заключается не в замене документации, а в создании своеобразного словаря, на который можно легко ссылаться.
 
-If you are willing to contribute, open a pull request to complete, update or fill in a section. Thank you for doing so!
+Этот репозиторий — перевод [оригинального словаря](https://github.com/HugoGiraudel/SJSJ). Если вы хотите принять участие в переводе, не стесняйтесь сделать пулл-реквест. Спасибо!
 
-## Glossary
+## Словарь
 
 [A](#a) ·
 [B](#b) ·
@@ -35,7 +35,7 @@ If you are willing to contribute, open a pull request to complete, update or fil
 
 ### A
 
-* [AJAX](/glossary/AJAX.md): a technology for asynchronous HTTP requests.
+* [AJAX](/glossary/AJAX.md), русск. *аякс*: технология для совершения асинхронных HTTP-запросов.
 * [AMD](/glossary/AMD.md): a standard defining how to load JavaScript libraries or modules asynchronously.
 * [AngularJS](/glossary/ANGULARJS.md): a structural framework for dynamic web apps.
 
