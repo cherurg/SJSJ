@@ -35,8 +35,8 @@
 
 ### A
 
-* [AJAX](/glossary/AJAX.md), русск. *аякс*: технология для совершения асинхронных HTTP-запросов.
-* [AMD](/glossary/AMD.md): a standard defining how to load JavaScript libraries or modules asynchronously.
+* [AJAX](/glossary/AJAX.md), рус. *аякс*: технология для совершения асинхронных HTTP-запросов.
+* [AMD](/glossary/AMD.md): стандарт, описывающий асинхронную загрузку JavaScript-библиотек или модулей.
 * [AngularJS](/glossary/ANGULARJS.md): a structural framework for dynamic web apps.
 
 ### B
