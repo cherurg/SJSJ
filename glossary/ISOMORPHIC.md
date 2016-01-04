@@ -1,7 +1,7 @@
-# Isomorphic
+# Изоморфное приложение
+ 		 
+Изоморфное приложение (после [этой статьи](https://medium.com/@mjackson/universal-javascript-4761051b7ae9) их все чаще стали называть универсальными) может исполняться как на сервере, так и на клиенте.
+ 		 
+Ключевая идея состоит в том, что сервер может отрисовывать страницы и осуществлять маршрутизацию (routing). Это может пригодиться, например, если у пользователя отключен JavaScript. Приложение продолжит полностью функционировать, предоставляя пользователю возможность быстрого взаимодействия со страницей. При этом можно избежать традиционных перезагрузок страниц.
 
-An isomorphic (or [preferably](https://medium.com/@mjackson/universal-javascript-4761051b7ae9) [universal](UNIVERSAL.md)) application is one whose code (in this case, JavaScript) can run both in the server and the client.
-
-The underlying idea is to allow the server to render and handle routing of an application for non-JavaScript users, while also making it fully working in the browser for fast interactions without involving traditional page reloads.
-
-In an isomorphic application, the initial request made by the web browser is processed by the server while subsequent requests are processed by the client.
+В изоморфных приложениях первый запрос от браузера обрабатывается сервером, а последующие - клиентом.
