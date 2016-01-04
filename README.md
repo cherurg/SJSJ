@@ -89,7 +89,7 @@
 ### I
 
 * [IIFE](/glossary/IIFE.md) (Immediately Invoked Function Expression): a function that gets called immediately after declaration.
-* [Изоморфный](/glossary/ISOMORPHIC.md): изоморфным (универсальным) называется приложение, которое может исполняться и на сервере, и на на клиенте.
+* [Isomorphic:](/glossary/ISOMORPHIC.md) (рус. *изоморфный*): изоморфным (универсальным) называется приложение, которое может исполняться и на сервере, и на на клиенте.
 
 ### J
 
