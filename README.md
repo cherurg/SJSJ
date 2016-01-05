@@ -41,7 +41,7 @@
 
 ### B
 
-* [Babel](/glossary/BABEL.md): a JavaScript transformation toolkit which started as an ECMAScript 2015 / ES6 code translator (transpiler).
+* [Babel](/glossary/BABEL.md): инструментарий для трансформации JavaScript-кода, изначально был транспилером кода ECMAScript 2015 / ES6.
 * [Backbone](/glossary/BACKBONE.md): a structural framework for dynamic web apps.
 * [Bluebird](/glossary/BLUEBIRD.md): a fully featured Promise library with focus on innovative features and performance.
 * [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
