@@ -1,5 +1,5 @@
 # ECMAScript (ES)
 
-[ECMAScript](http://www.ecmascript.org/) (shortened as *ES*) is the standardized specification of the scripting language used by JavaScript, as well as less known languages JScript and ActionScript.
+[ECMAScript](http://www.ecmascript.org/) (сокращенно как *ES*) это стандартизованная спецификация сценарного (скриптового) языка программирования используемая в JavaScript, и в других менее известных языках программирования JScript и ActionScript.
 
-The versioning convention of ECMAScript has been the subject of hot debates. We often refer to ES5 (understood by most browsers), ES6 (the future of JavaScript) and even ES7 (the far future of JavaScript), but the official appellation for ES6 would actually be ES2015. The intention is to publish a version of the specification every year, making the language evolve quicker than ever. Still, most developers use ES5 and ES6 terms.
+Соглашение по управлению версиями ECMAScript было предметом горячих дебатов. Мы часто ссылаемся на ES5 (воспринимается большинством браузеров), ES6 (будущее JavaScript) и даже ES7 (далекое будущее JavaScript), но официальным наименованием для ES6 на самом деле будет ES2015. Намерение выпускать новую версию спецификаций каждый год, позволяет языку развиваться быстрее чем когда-либо. Тем не менее, большинство разработчиков используют термины ES5 и ES6.
