@@ -1,5 +1,5 @@
 # AngularJS
 
-[AngularJS](https://angularjs.org/) is a structural framework for dynamic web apps. It lets developers use HTML as their template language and lets them extend HTML’s syntax to express their application’s components clearly and succinctly.
+[AngularJS](https://angularjs.org/) — это фреймворк для разработки динамических веб-приложений. Он позволяет разработчикам расширять синтаксис HTML, а также использовать HTML как шаблонизатор, благодаря чему компоненты приложения описываются ясно и лаконично.
 
-Angular’s data binding and dependency injection eliminate much of the code developers would otherwise have to write. And it all happens within the browser, making it an ideal partner with any server technology.
+Связывание данных и инъекция зависимостей сильно уменьшает количество кода, который разработчикам пришлось бы написать, если бы реализации этих вещей не было в Angular. И всё это работает в браузере, так что Angular можно легко использовать с любой серверной технологией.
