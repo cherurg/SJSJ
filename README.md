@@ -62,11 +62,11 @@
 ### D
 
 * [D3.js](/glossary/D3JS.md): a library for manipulating documents based on data.
-* [DOM](/glossary/DOM.md): a platform- and language-neutral interface that allow programs and scripts to dynamically access and update the content, structure and style of documents.
+* [DOM](/glossary/DOM.md): это не зависящий от платформы и языка программирования интерфейс, который позволяет программам и скриптам динамически получать доступ к документу и обновлять его содержимое, структуру и стили.
 
 ### E
 
-* [ECMAScript](/glossary/ECMASCRIPT.md): the standardized specification of the scripting language used by JavaScript.
+* [ECMAScript](/glossary/ECMASCRIPT.md): стандартизованная спецификация скриптового языка, используемая в JavaScript.
 * [Ember](/glossary/EMBER.md): an application framework based on the model-view-controller pattern.
 * [ESLint](/glossary/ESLINT.md): a JavaScript code linter.
 * [Express](/glossary/EXPRESS.md): a fast, un-opinionated, minimalist web framework for Node.js.
@@ -98,7 +98,7 @@
 * [JSCS](/glossary/JSCS.md): a JavaScript code linter.
 * [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
 * [JSLint](/glossary/JSLINT.md): a JavaScript code linter.
-* [JSON](/glossary/JSON.md) (JavaScript Object Notation): a lightweight data-interchange format.
+* [JSON](/glossary/JSON.md) (JavaScript Object Notation): Легковесный формат обмена данными.
 * [JSON-LD](/glossary/JSON-LD.md): JSON for Linked Data.
 * [JSX](/glossary/JSX.md): an XML-like syntax extension to JavaScript.
 
