@@ -113,7 +113,7 @@
 
 ### M
 
-* [Meteor](/glossary/METEOR.md): a JavaScript web framework that allows rapid prototypic web developement.
+* [Meteor](/glossary/METEOR.md): JavaScript веб-фреймворк позволяющий вести быструю прототипную веб-разработку.
 * [Mocha](/glossary/MOCHA.md): an extensible testing framework for TDD or BDD.
 * [Moment.js](/glossary/MOMENTJS.md): a library to parse, validate, manipulate and display dates.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
@@ -123,7 +123,7 @@
 ### N
 
 * [Nightmare](/glossary/NIGHTMARE.md): a high-level browser automation library.
-* [Node.js](/glossary/NODEJS.md): a cross-platform runtime environment for developing server-side applications built on V8 engine.
+* [Node.js](/glossary/NODEJS.md): кросcплатформенная среда выполнения на движке V8, предназначенная для разработки серверных приложений. 
 * [npm](/glossary/NPM.md): a utility to help publishing packages to, and installing from, an npm repository.
 * [nvm](/glossary/NVM.md): a utility to help run multiple versions of Node.js on the same machine.
 
