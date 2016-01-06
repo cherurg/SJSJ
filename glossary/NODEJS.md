@@ -1,7 +1,7 @@
 # Node.js
 
-[Node.js](https://nodejs.org/en/) is an open-source, cross-platform runtime environment for developing server-side web applications built on Chrome’s [V8](#v8) JavaScript engine. These applications are written in JavaScript and can be run within the Node.js runtime.
+[Node.js](https://nodejs.org/en/) - это кроссплатформенная среда выполнения с открытым исходным кодом, предназначенная для разработки серверной части веб-приложений и имеющая в основе JavaScript-движок Chrome [V8](#v8). Подобные приложения, написанные на JavaScript, могут быть выполнены в среде выполнения Node.js.
 
-Node.js uses an event-driven, non-blocking I/O (input/output) model that makes it lightweight and efficient as well as optimized for real-time web applications’ throughput and scalability.
+Node.js использует событийно-ориентированную, неблокирующую ввод/вывод (I/O) модель, которая делает его лёгким и эффективным и вместе с тем оптимизированным для производительных и масштабируемых веб-приложений, работающих в режиме реального времени.
 
-Its work is hosted and supported by the [Node.js Foundation](https://nodejs.org/en/foundation/), a collaborative project at Linux Foundation.
+Его разработка распространяется и поддерживается [Node.js Foundation](https://nodejs.org/en/foundation/) - совместным проектом консорциума Linux Foundation.
