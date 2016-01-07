@@ -46,7 +46,7 @@
 * [Bluebird](/glossary/BLUEBIRD.md): полнофункциональная библиотека для работы с промисами с фокусом на современных возможностях и производительности.
 * [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
 * [Broccoli](/glossary/BROCCOLI.md): a fast and reliable asset pipeline.
-* [Browserify](/glossary/BROWSERIFY.md): a tool making possible to use the `require` function from Node.js within the browser.
+* [Browserify](/glossary/BROWSERIFY.md): инструмент, делающий возможным использование в браузере функции `require` из Node.js.
 * [Brunch](/glossary/BRUNCH.md): a tool focusing on the production of deployment-ready files from development files.
 
 ### C
