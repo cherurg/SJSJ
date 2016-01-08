@@ -1,11 +1,11 @@
 # React
 
-[React](https://facebook.github.io/react/) is a library developed and used at Facebook for building user interfaces. It can be seen as the V in MVC (Model View Controller) as it makes no assumptions about the rest of the technology stack. Using [React Native](#react-native) it can even be used to power native apps.
+[React](https://facebook.github.io/react/) библиотека разработанная и используемая в Facebook для создания пользовательских интерфейсов. Ее можно рассмотреть как V в MVC (Model View Controller), потому что она не заменяет остальные технологии в стеке. При помощи [React Native](#react-native) эта библиотека может быть использована даже для производительных нативных приложений.
 
-In React you can write HTML directly in JS using an XML-like syntax called [JSX](JSX.md). JSX compiles to JS and is optional, but does make the code more expressive.
+В React вы можете использовать HTML прямо в JS, используя XML-схожий синтакс, называемый [JSX](JSX.md). JSX компилируется в JS и не является обязательным, но делает код более выразительным.
 
-Data flow in React is one-way which makes it easier to reason about and avoid mistakes. This quality can be enhanced using [Flux](FLUX.md), Facebook’s complementary application architecture, or [Redux](REDUX.md) which many people see as a “better Flux”.
+Поток данных в React односторонний, что позволяет более просто находить и избегать ошибки. Эту особенность можно улучшить используя [Flux](FLUX.md), дополнение для архитектуры приложений Facebook, или [Redux](REDUX.md) который многие люди считают лучше "чем Flux".
 
 # React Native
 
-[React Native](https://facebook.github.io/react-native/) section to be completed.
+[React Native](https://facebook.github.io/react-native/) раздел заполняется.

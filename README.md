@@ -144,7 +144,7 @@
 ### R
 
 * [Ramda](/glossary/RAMDA.md): a practical functional library for Javascript programmers.
-* [React](/glossary/REACT.md): a library developed and used at Facebook for building user interfaces.
+* [React](/glossary/REACT.md): библиотека разработанная и используемая в Facebook для создания пользовательских интерфейсов.
 * [Redux](/glossary/REDUX.md): a predictable state container for apps.
 * [RxJS](/glossary/RXJS.md): a library for asynchronous programming using observable streams.
 * [Require.js](/glossary/REQUIREJS.md): *to be completed.*
