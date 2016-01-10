@@ -79,7 +79,7 @@
 ### G
 
 * [Grunt](/glossary/GRUNT.md): a task runner aiming at automating tedious and possibly complex tasks.
-* [Gulp](/glossary/GULP.md): a task runner aiming at automating tedious and possibly complex tasks.
+* [Gulp](/glossary/GULP.md): менеджер задач, автоматизирующий рутинные, возможно сложные, действия.
 
 ### H
 
