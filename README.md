@@ -54,7 +54,7 @@
 * [Canvas](/glossary/CANVAS.md): an HTML element for graphic applications in 2D or 3D.
 * [Chai](/glossary/CHAI.md): an assertion library used with a JavaScript testing framework.
 * [Closure](/glossary/CLOSURE.md): a way of referencing variables from a child function while retaining their value even if it changes in the parent function.
-* [CoffeeScript](/glossary/COFFEESCRIPT.md): a language that compiles into JavaScript.
+* [CoffeeScript](/glossary/COFFEESCRIPT.md): метаязык, компилируемый в JavaScript.
 * [CORS](/glossary/CORS.md): a way for a server to make things accessible to pages hosted on other domains.
 * [CouchDB](/glossary/COUCHDB.md): a NoSQL database with JavaScript as query language and HTTP as API.
 * [Currying](/glossary/CURRYING.md): a technnique that consists of changing a function that takes several arguments into a number of functions that each take one argument.
