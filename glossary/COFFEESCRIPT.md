@@ -1,5 +1,5 @@
 # CoffeeScript
 
-[CoffeeScript](http://coffeescript.org/) is a little language that compiles into JavaScript. It is an attempt to expose the good parts of JavaScript in a simple way and friendly syntax, the golden rule being: “It’s just JavaScript”.
+[CoffeeScript](http://coffeescript.org/) — это метаязык (язык второго уровня), компилируемый в JavaScript. Разработан как попытка показать лучшие стороны JS, используя простой и дружественный синтаксис. Весь язык подвергается золотому правилу: «Это просто JavaScript».
 
-The code compiles one-to-one into the equivalent JavaScript, and there is no interpretation at runtime. The compiled output is readable and pretty-printed, will work in every JavaScript runtime, and tends to run as fast or faster than the equivalent handwritten JavaScript.
+Код полностью компилируется в эквивалентный ему JavaScript, ничего не интерпретируется в момент выполнения. Скомпилированный код легко читается и прекрасно отформатирован. Выполняется в любом JavaScript окружении, иногда даже быстрее, чем тот же JS-код, написанный руками.
