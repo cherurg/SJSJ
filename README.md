@@ -174,7 +174,7 @@
 ### W
 
 * [WebGL](/glossary/WEBGL.md) (Web Graphics Library): a JavaScript API for rendering interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins.
-* [Webpack](/glossary/WEBPACK.md): a dependency manager with a friendly and fast development environment, simplifying a lot of common tasks.
+* [Webpack](/glossary/WEBPACK.md): менеджер зависимостей с дружественной и быстрой средой разработки, позволяющий упрощать множество общих задач.
 
 ### X
 
