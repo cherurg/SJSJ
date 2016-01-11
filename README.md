@@ -155,7 +155,7 @@
 
 ### T
 
-* [Three.js](/glossary/THREEJS.md): a lightweight 3D library to create and display animated 3D computer graphics on a Web browser.
+* [Three.js](/glossary/THREEJS.md): небольшая библиотека для создания и отображения анимированой 3D-графики в браузере.
 * [TypeScript](/glossary/TYPESCRIPT.md): a super-set of the JavaScript language that introduces types.
 
 ### U

@@ -1,5 +1,5 @@
 # Three.js
 
-[Three.js](http://threejs.org/) the aim of the project is to create a lightweight 3D library with a very low level of complexity. The library can be used in conjunction with the HTML5 [`<canvas>`](CANVAS.md), `<svg>`, CSS3D and [WebGL](WEBGL.md) renderers.
+[Three.js](http://threejs.org/) — небольшая библиотека для создания и отображения анимированой 3D-графики в браузере. Целью проекта является создание библиотеки для работы с 3D-графикой с очень низким уровнем сложности. Её можно использовать с элементами HTML5 ([`<canvas>`](CANVAS.md), `<svg>`) и средствами визуализации (CSS3D, [WebGL](WEBGL.md)).
 
-It has been popularized as one of the most important for creating animations WebGL.
+Библиотека была популяризирована как одна из самых нужных для создания анимаций WebGL.
