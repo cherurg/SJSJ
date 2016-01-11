@@ -178,7 +178,7 @@
 
 ### X
 
-* [XHR](/glossary/XHR.md): XMLHttpRequest is an API that provides client functionality for transferring data between a client and a server.
+* [XHR](/glossary/XHR.md): XMLHttpRequest — это API, которое обеспечивает клиент нужной для передачи данных между клиентом и сервером функциональностью.
 
 ### Y
 
