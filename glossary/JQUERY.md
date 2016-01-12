@@ -1,3 +1,3 @@
 # jQuery
 
-[jQuery](https://jquery.com/) is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and [AJAX](AJAX.md) much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
+[jQuery](https://jquery.com/) — быстрая, небольшая и богатая на возможности клиентская библиотека. Она позволяет быстро получать доступ к HTML и манипулировать элементами, обрабатывать события, создавать анимации и делает [AJAX](AJAX.md) намного проще с помощью своего API, которое работает в большинстве браузеров. Благодаря комбинации универсальности и расширяемости, jQuery изменила подход миллионов людей к написанию JavaScript кода.

@@ -102,7 +102,7 @@
 ### J
 
 * [Jasmine](/glossary/JASMINE.md): a testing framework for BDD.
-* [jQuery](/glossary/JQUERY.md): a fast, small, and feature-rich client-side library.
+* [jQuery](/glossary/JQUERY.md): быстрая, небольшая и богатая на возможности клиентская библиотека.
 * [JSCS](/glossary/JSCS.md): a JavaScript code linter.
 * [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
 * [JSLint](/glossary/JSLINT.md): a JavaScript code linter.
