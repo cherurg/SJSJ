@@ -6,6 +6,7 @@ API описывает механизм для определения таких
 
 AMD-библиотеки предоставляют глобальную функцию `define` для определения модуля
 
+
 ```js
 define(modulename?,[dependencyA?, dependencyB?, ...], function(objectA, objectB, ...) {
 ...

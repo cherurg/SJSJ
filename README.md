@@ -1,8 +1,11 @@
 # Упрощённый JavaScript-жаргон
+![Logo SJSJ](/images/logo.jpg)
 
 *Упрощённый JavaScript-жаргон* (англ. *Simplified JavaScript Jargon*, сокр. *SJSJ*) — это курируемая сообществом попытка объяснить простыми словами множество сложных терминов, используемых в текущей экосистеме JavaScript. Идея заключается не в замене документации, а в создании своеобразного словаря, на который можно легко ссылаться.
 
 Этот репозиторий — перевод [оригинального словаря](https://github.com/HugoGiraudel/SJSJ). Если вы хотите принять участие в переводе, не стесняйтесь сделать пулл-реквест. Спасибо!
+
+*Hank Wang has made a command-line tool for SJSJ if you want all the JavaScript goodness directly from your terminal: https://github.com/hanksudo/SJSJ-cli.*
 
 ## Словарь
 
@@ -57,12 +60,14 @@
 * [CoffeeScript](/glossary/COFFEESCRIPT.md): метаязык, компилируемый в JavaScript.
 * [CORS](/glossary/CORS.md): a way for a server to make things accessible to pages hosted on other domains.
 * [CouchDB](/glossary/COUCHDB.md): a NoSQL database with JavaScript as query language and HTTP as API.
-* [Currying](/glossary/CURRYING.md): a technnique that consists of changing a function that takes several arguments into a number of functions that each take one argument.
+* [CommonJS](/glossary/COMMONJS.md): *to be completed.*
+* [Currying](/glossary/CURRYING.md): the process to transform a function with multiple parameters into a chain of functions of one parameter.
 
 ### D
 
 * [D3.js](/glossary/D3JS.md): библиотека для обработки и визуализации данных.
 * [DOM](/glossary/DOM.md): не зависящий от платформы и языка программирования интерфейс, который позволяет программам и скриптам динамически получать доступ к документу и обновлять его содержимое, структуру и стили.
+* [Design Patterns](/glossary/DESIGN_PATTERNS.md): *to be completed.*
 
 ### E
 
@@ -73,8 +78,11 @@
 
 ### F
 
+* [Facade Pattern](/glossary/FACADE_PATTERN.md): *to be completed.*
+* [Factory Pattern](/glossary/FACTORY_PATTERN.md): *to be completed.*
 * [Falcor](/glossary/FALCOR.md): *to be completed.*
 * [Flux](/glossary/FLUX.md): an application structure focusing on improved data flow.
+* [Four](/glossary/FOUR.md): a framework to develop 3D content for the web.
 
 ### G
 
@@ -109,13 +117,17 @@
 ### L
 
 * [LocalForage](/glossary/LOCALFORAGE.md): *to be completed.*
-* [Lodash](/glossary/LODASH.md): a toolbelt with bunch of helpers to work with Javascript data types (string, object,...) in a much more simpler way.
+* [Lodash](/glossary/LODASH.md): an utility toolkit to extend Javascript primitive types.
 
 ### M
 
 * [Meteor](/glossary/METEOR.md): JavaScript веб-фреймворк позволяющий вести быструю прототипную веб-разработку.
+* [Mediator Pattern](/glossary/MEDIATOR_PATTERN.md): *to be completed.*
 * [Mocha](/glossary/MOCHA.md): an extensible testing framework for TDD or BDD.
+* [Modernizr](/glossary/MODERNIZR.md): a browser feature detection library, useful to modify page styles when a feature is not available in the browser.
+* [Module Pattern](/glossary/MODULE_PATTERN.md): *to be completed.*
 * [Moment.js](/glossary/MOMENTJS.md): a library to parse, validate, manipulate and display dates.
+* [MongoDB](/glossary/MONGODB.md): a Javascript NoSQL database.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
 * [Metalsmith](/glossary/METALSMITH.md): a simple, pluggable static site generator.
 * [MEAN](/glossary/MEAN.md): the technology stack MongoDB, ExpressJS, AngularJS, and Node.js (MEAN).
@@ -129,29 +141,35 @@
 
 ### O
 
+* [Observer Pattern](/glossary/OBSERVER_PATTERN.md): *to be completed.*
+
 ### P
 
 * [PhantomJS](/glossary/PHANTOMJS.md): *to be completed.*
 * [PhoneGap](/glossary/PHONEGAP.md): *to be completed.*
-* [Polymer](/glossary/POLYMER.md): *to be completed.*
+* [Polymer](/glossary/POLYMER.md): Google’s library for creating Web Components.
 * [Promise](/glossary/PROMISE.md): a proxy for a value not necessarily known immediately but that will eventually be resolved.
 * [Prototype](/glossary/PROTOTYPE.md): *to be completed.*
+* [Prototype Pattern](/glossary/PROTOTYPE_PATTERN.md): *to be completed.*
 
 ### Q
 
 * [QUnit](/glossary/QUNIT.md): *to be completed.*
+* [Q](/glossary/Q.md): a library to create and manage promises.
 
 ### R
 
 * [Ramda](/glossary/RAMDA.md): a practical functional library for Javascript programmers.
 * [React](/glossary/REACT.md): библиотека для создания пользовательских интерфейсов, разработанная и используемая в Facebook.
 * [Redux](/glossary/REDUX.md): a predictable state container for apps.
+* [Revealing Module Pattern](/glossary/REVEALING_MODULE_PATTERN.md): *to be completed.*
 * [RxJS](/glossary/RXJS.md): a library for asynchronous programming using observable streams.
-* [Require.js](/glossary/REQUIREJS.md): *to be completed.*
+* [Require.js](/glossary/REQUIREJS.md): a browser based module loader using AMD.
 
 ### S
 
 * [Sails](/glossary/SAILS.md): a realtime MVC Framework for Node.js.
+* [Singleton Pattern](/glossary/SINGLETON_PATTERN.md): *to be completed.*
 
 ### T
 
@@ -185,3 +203,5 @@
 * [Yeoman](/glossary/YEOMAN.md): a generator builder to speed up the setup and installation process of a project or part of a project.
 
 ### Z
+
+* [Zepto](/glossary/ZEPTO.md): a lightweight jQuery clone, without all the browser-compatibility specific code.
