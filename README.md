@@ -44,7 +44,7 @@
 * [Babel](/glossary/BABEL.md): инструментарий для трансформации JavaScript-кода, изначально был транспилером кода ECMAScript 2015 / ES6.
 * [Backbone](/glossary/BACKBONE.md): фреймворк для разработки динамических веб-приложений.
 * [Bluebird](/glossary/BLUEBIRD.md): полнофункциональная библиотека для работы с промисами с фокусом на современных возможностях и производительности.
-* [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
+* [Bower](/glossary/BOWER.md): менеджер пакетов для фронтенд-зависимостей.
 * [Broccoli](/glossary/BROCCOLI.md): a fast and reliable asset pipeline.
 * [Browserify](/glossary/BROWSERIFY.md): инструмент, делающий возможным использование в браузере функции `require` из Node.js.
 * [Brunch](/glossary/BRUNCH.md): a tool focusing on the production of deployment-ready files from development files.
