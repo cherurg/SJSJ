@@ -1,5 +1,5 @@
 # Gulp
 
-[Gulp](http://gulpjs.com/) is a task runner aiming at automating tedious and possibly complex tasks. The idea behind Gulp (and its peer [Grunt](GRUNT.md)) is to define tasks that perform (usually file-based) actions. These tasks can then be run through the command line or as part of another build step. 
+[Gulp](http://gulpjs.com/) — это таск-менеджер, автоматизирующий рутинные и, возможно, сложные действия. Основной идеей Grunt (а также его аналога [Gulp](GULP.md)) является описание тасков (задач), выполняющих какие-либо (обычно связанные с файлами) действия. Впоследствии эти задачи могут быть вызваны вручную с помощью командной строки или автоматически другими задачами.
 
-Gulp also owes its success to its very large ecosystem of plugins, making it easy to perform everyday’s tasks without having to write much code.
+Gulp довольно популярен благодаря большой экосистеме плагинов, позволяющей автоматизировать ежедневные задачи без необходимости написания большого количества кода.
