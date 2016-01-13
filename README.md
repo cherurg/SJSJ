@@ -100,7 +100,7 @@
 * [JSLint](/glossary/JSLINT.md): a JavaScript code linter.
 * [JSON](/glossary/JSON.md) (JavaScript Object Notation): легковесный формат обмена данными.
 * [JSON-LD](/glossary/JSON-LD.md): JSON for Linked Data.
-* [JSX](/glossary/JSX.md): an XML-like syntax extension to JavaScript.
+* [JSX](/glossary/JSX.md): расширение для использования XML-синтаксиса в JavaScript.
 
 ### K
 

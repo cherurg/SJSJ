@@ -1,3 +1,3 @@
 # JSX
 
-[JSX](https://facebook.github.io/jsx/) is an XML-like syntax extension to JavaScript. It allows developers to write HTML directly in JS but needs to be transpiled before it can be used in the browser. JSX is developed at Facebook and mostly used to complement [React](REACT.md).
+[JSX](https://facebook.github.io/jsx/) — это расширение для использования XML-синтаксиса в JavaScript. JSX позволяет разработчикам писать HTML-код прямо в JS, но прежде чем использовать код в браузере, он должен быть транспилирован. JSX разработан в Facebook и часто используется для дополнения [React](REACT.md).
