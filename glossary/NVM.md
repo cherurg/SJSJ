@@ -1,3 +1,3 @@
 # nvm
 
-[nvm](https://github.com/creationix/nvm/blob/master/README.markdown) is a utility to help run multiple versions of [Node.js](NODEJS.md) (and its branches) on the same machine. It can install, list, and choose versions. It is analagous to [RVM](https://rvm.io/) (Ruby Version Manager).
+[nvm](https://github.com/creationix/nvm/blob/master/README.markdown) утилита помогающая запускать множество версий [Node.js](NODEJS.md) (и его веток) на одной машине. Она может устанавливать, составлять список и выбирать версии. Является аналагом [RVM](https://rvm.io/) (Ruby Version Manager).
