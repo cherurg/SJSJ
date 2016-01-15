@@ -1,3 +1,3 @@
 # npm
 
-[npm](https://www.npmjs.com/) is a utility to help publishing packages to, and installing from, an npm repository. The repository npmjs.com is the best known, and contains many useful community written and tested packages.
+[npm](https://www.npmjs.com/) утилита помогающая публиковать пакеты и устанавливать их из npm репозитория. Самый известный репозиторий - npmjs.com, содержит много полезных пакетов написанных и протестированных сообществом.

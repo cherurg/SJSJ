@@ -124,7 +124,7 @@
 
 * [Nightmare](/glossary/NIGHTMARE.md): a high-level browser automation library.
 * [Node.js](/glossary/NODEJS.md): кросcплатформенная среда выполнения на движке V8, предназначенная для разработки серверных приложений.
-* [npm](/glossary/NPM.md): a utility to help publishing packages to, and installing from, an npm repository.
+* [npm](/glossary/NPM.md): утилита помогающая публиковать пакеты и устанавливать их из npm репозитория.
 * [nvm](/glossary/NVM.md): a utility to help run multiple versions of Node.js on the same machine.
 
 ### O
