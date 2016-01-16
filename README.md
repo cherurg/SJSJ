@@ -1,5 +1,4 @@
-# Упрощённый JavaScript-жаргон
-![Logo SJSJ](/images/logo.jpg)
+![Логотип SJSJ](/images/logo.png)
 
 *Упрощённый JavaScript-жаргон* (англ. *Simplified JavaScript Jargon*, сокр. *SJSJ*) — это курируемая сообществом попытка объяснить простыми словами множество сложных терминов, используемых в текущей экосистеме JavaScript. Идея заключается не в замене документации, а в создании своеобразного словаря, на который можно легко ссылаться.
 
@@ -47,8 +46,8 @@
 * [Babel](/glossary/BABEL.md): инструментарий для трансформации JavaScript-кода, изначально был транспилером кода ECMAScript 2015 / ES6.
 * [Backbone](/glossary/BACKBONE.md): фреймворк для разработки динамических веб-приложений.
 * [Bluebird](/glossary/BLUEBIRD.md): полнофункциональная библиотека для работы с промисами с фокусом на современных возможностях и производительности.
-* [Bower](/glossary/BOWER.md): a package manager for front-end dependencies.
-* [Broccoli](/glossary/BROCCOLI.md): a fast and reliable asset pipeline.
+* [Bower](/glossary/BOWER.md): менеджер пакетов для фронтенд-зависимостей.
+* [Broccoli](/glossary/BROCCOLI.md): быстрый и надёжный файлопровод (англ. *asset pipeline*).
 * [Browserify](/glossary/BROWSERIFY.md): инструмент, делающий возможным использование в браузере функции `require` из Node.js.
 * [Brunch](/glossary/BRUNCH.md): a tool focusing on the production of deployment-ready files from development files.
 
@@ -81,13 +80,13 @@
 * [Facade Pattern](/glossary/FACADE_PATTERN.md): *to be completed.*
 * [Factory Pattern](/glossary/FACTORY_PATTERN.md): *to be completed.*
 * [Falcor](/glossary/FALCOR.md): *to be completed.*
-* [Flux](/glossary/FLUX.md): an application structure focusing on improved data flow.
+* [Flux](/glossary/FLUX.md): структура приложения с форусом на улучшенном потоке данных.
 * [Four](/glossary/FOUR.md): a framework to develop 3D content for the web.
 
 ### G
 
-* [Grunt](/glossary/GRUNT.md): менеджер задач, автоматизирующий рутинные, возможно сложные, действия.
-* [Gulp](/glossary/GULP.md): менеджер задач, автоматизирующий рутинные, возможно сложные, действия.
+* [Grunt](/glossary/GRUNT.md): таск-менеджер, автоматизирующий рутинные и, возможно, сложные действия.
+* [Gulp](/glossary/GULP.md): таск-менеджер, автоматизирующий рутинные и, возможно, сложные действия.
 
 ### H
 
@@ -108,7 +107,7 @@
 * [JSLint](/glossary/JSLINT.md): a JavaScript code linter.
 * [JSON](/glossary/JSON.md) (JavaScript Object Notation): легковесный формат обмена данными.
 * [JSON-LD](/glossary/JSON-LD.md): JSON for Linked Data.
-* [JSX](/glossary/JSX.md): расширение для использования XML-синтаксиса в JavaScript.
+* [JSX](/glossary/JSX.md): расширение языка для использования XML-подобного синтаксиса в JavaScript.
 
 ### K
 
@@ -136,8 +135,8 @@
 
 * [Nightmare](/glossary/NIGHTMARE.md): a high-level browser automation library.
 * [Node.js](/glossary/NODEJS.md): кросcплатформенная среда выполнения на движке V8, предназначенная для разработки серверных приложений.
-* [npm](/glossary/NPM.md): a utility to help publishing packages to, and installing from, an npm repository.
-* [nvm](/glossary/NVM.md): a utility to help run multiple versions of Node.js on the same machine.
+* [npm](/glossary/NPM.md): инструмент для публикации и установки пакетов через npm-репозитории.
+* [nvm](/glossary/NVM.md): инструмент для запуска разных версий Node.js на одном и том же компьютере.
 
 ### O
 
@@ -168,7 +167,7 @@
 
 ### S
 
-* [Sails](/glossary/SAILS.md): a realtime MVC Framework for Node.js.
+* [Sails](/glossary/SAILS.md): Node.js MVC-фреймворк для создания приложений, работающих в режиме реального времени.
 * [Singleton Pattern](/glossary/SINGLETON_PATTERN.md): *to be completed.*
 
 ### T
@@ -196,7 +195,7 @@
 
 ### X
 
-* [XHR](/glossary/XHR.md): XMLHttpRequest — это API, которое обеспечивает клиент нужной для передачи данных между клиентом и сервером функциональностью.
+* [XHR](/glossary/XHR.md) (XMLHttpRequest):  API, обеспечивающее сторону клиента нужной для передачи данных между клиентом и сервером функциональностью.
 
 ### Y
 

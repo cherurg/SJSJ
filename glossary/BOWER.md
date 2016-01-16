@@ -1,3 +1,3 @@
 # Bower
 
-[Bower](http://bower.io/) is a package manager for front-end dependencies. It takes care of hunting, finding, downloading, saving these dependencies and keeping track of them in a manifest file called `bower.json`. Bower uses a flat dependency tree, requiring only one version for each package, reducing page load to a minimum.
+[Bower](http://bower.io/) — это менеджер пакетов для фронтенд-зависимостей. Он берёт на себя поиск, скачивание и обновление этих зависимостей. Отслеживание всех зависимостей происходит через специальный файл, названный `bower.json`. Bower использует плоскую структуру дерева зависимостей, запрашивая только одну версию каждого пакета, благодаря чему вес страницы уменьшается до минимума.
