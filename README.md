@@ -74,7 +74,7 @@
 ### F
 
 * [Falcor](/glossary/FALCOR.md): *to be completed.*
-* [Flux](/glossary/FLUX.md): an application structure focusing on improved data flow.
+* [Flux](/glossary/FLUX.md): структура приложения с форусом на улучшенном потоке данных.
 
 ### G
 
@@ -124,8 +124,8 @@
 
 * [Nightmare](/glossary/NIGHTMARE.md): a high-level browser automation library.
 * [Node.js](/glossary/NODEJS.md): кросcплатформенная среда выполнения на движке V8, предназначенная для разработки серверных приложений.
-* [npm](/glossary/NPM.md): a utility to help publishing packages to, and installing from, an npm repository.
-* [nvm](/glossary/NVM.md): a utility to help run multiple versions of Node.js on the same machine.
+* [npm](/glossary/NPM.md): инструмент для публикации и установки пакетов через npm-репозитории.
+* [nvm](/glossary/NVM.md): инструмент для запуска разных версий Node.js на одном и том же компьютере.
 
 ### O
 
@@ -151,7 +151,7 @@
 
 ### S
 
-* [Sails](/glossary/SAILS.md): a realtime MVC Framework for Node.js.
+* [Sails](/glossary/SAILS.md): Node.js MVC-фреймворк для создания приложений, работающих в режиме реального времени.
 
 ### T
 
