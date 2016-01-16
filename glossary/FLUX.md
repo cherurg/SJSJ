@@ -1,3 +1,3 @@
 # Flux
 
-[Flux](https://facebook.github.io/flux/) is an application structure that is developed and used at Facebook to complement [React](REACT.md)’s one-way data flow. With Flux, application state and logic are contained in stores.
+[Flux](https://facebook.github.io/flux/) архитектура приложения разработанная и используемая в Facebook для расширения одностороннего потока данных в [React](REACT.md). С Flux состояние приложения и его логика содержится в памяти.

@@ -74,7 +74,7 @@
 ### F
 
 * [Falcor](/glossary/FALCOR.md): *to be completed.*
-* [Flux](/glossary/FLUX.md): an application structure focusing on improved data flow.
+* [Flux](/glossary/FLUX.md): архитектура приложения направленная на улучшение потока данных.
 
 ### G
 
