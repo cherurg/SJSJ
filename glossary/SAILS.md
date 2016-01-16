@@ -1,3 +1,3 @@
 # Sails
 
-[Sails](http://sailsjs.org/) is a web framework that makes it easy to build custom, enterprise-grade [Node.js](NODEJS.md) apps. It is designed to resemble the MVC (Model View Controller) architecture from frameworks like Ruby on Rails, but with support for the more modern, data-oriented style of web app development. It’s especially good for building realtime features like chat.
+[Sails](http://sailsjs.org/) веб-фреймворк, который облегчает разработку собственных [Node.js](NODEJS.md) приложений корпоративного уровня. Он создан чтобы повторить MVC (Модель, Представление, Контроллер) архитектуру из таких фреймворков как Ruby in Rails, но с поддержкой более нового, оринетированного на данные стиля разработки веб-приложений. Он особенно хорош для построения приложений реального времени таких, как чат.

@@ -151,7 +151,7 @@
 
 ### S
 
-* [Sails](/glossary/SAILS.md): a realtime MVC Framework for Node.js.
+* [Sails](/glossary/SAILS.md): MVC фреймворк реального времени для Node.js.
 
 ### T
 
