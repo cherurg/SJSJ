@@ -4,8 +4,6 @@
 
 Этот репозиторий — перевод [оригинального словаря](https://github.com/HugoGiraudel/SJSJ). Если вы хотите принять участие в переводе, не стесняйтесь сделать пулл-реквест. Спасибо!
 
-*Hank Wang has made a command-line tool for SJSJ if you want all the JavaScript goodness directly from your terminal: https://github.com/hanksudo/SJSJ-cli.*
-
 ## Словарь
 
 [A](#a) ·
