@@ -100,7 +100,7 @@
 
 ### J
 
-* [Jasmine](/glossary/JASMINE.md): a testing framework for BDD.
+* [Jasmine](/glossary/JASMINE.md): a testing framework for BDD (Behaviour-Driven Development).
 * [jQuery](/glossary/JQUERY.md): быстрая, небольшая и богатая на возможности клиентская библиотека.
 * [JSCS](/glossary/JSCS.md): a JavaScript code linter.
 * [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
@@ -116,13 +116,14 @@
 ### L
 
 * [LocalForage](/glossary/LOCALFORAGE.md): *to be completed.*
-* [Lodash](/glossary/LODASH.md): an utility toolkit to extend Javascript primitive types.
+* [Lodash](/glossary/LODASH.md): an utility toolkit to extend JavaScript primitive types.
 
 ### M
 
 * [Meteor](/glossary/METEOR.md): JavaScript веб-фреймворк позволяющий вести быструю прототипную веб-разработку.
 * [Mediator Pattern](/glossary/MEDIATOR_PATTERN.md): *to be completed.*
-* [Mocha](/glossary/MOCHA.md): an extensible testing framework for TDD or BDD.
+* [Mocha](/glossary/MOCHA.md): an extensible testing framework for TDD (Test-Driven Development) or BDD (Behaviour-Driven Development).
+* [Memoize](/glossary/MEMOIZE.md): an optimization used to speed up consecutive function calls by caching the result of calls with identical input.
 * [Modernizr](/glossary/MODERNIZR.md): a browser feature detection library, useful to modify page styles when a feature is not available in the browser.
 * [Module Pattern](/glossary/MODULE_PATTERN.md): *to be completed.*
 * [Moment.js](/glossary/MOMENTJS.md): a library to parse, validate, manipulate and display dates.
@@ -134,6 +135,7 @@
 ### N
 
 * [Nightmare](/glossary/NIGHTMARE.md): a high-level browser automation library.
+* [NightwatchJS](/glossary/NIGHTWATCHJS): a framework for browser automated testing.
 * [Node.js](/glossary/NODEJS.md): кросcплатформенная среда выполнения на движке V8, предназначенная для разработки серверных приложений.
 * [npm](/glossary/NPM.md): инструмент для публикации и установки пакетов через npm-репозитории.
 * [nvm](/glossary/NVM.md): инструмент для запуска разных версий Node.js на одном и том же компьютере.
