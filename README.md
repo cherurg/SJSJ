@@ -47,7 +47,7 @@
 * [Bower](/glossary/BOWER.md): менеджер пакетов для фронтенд-зависимостей.
 * [Broccoli](/glossary/BROCCOLI.md): быстрый и надёжный файлопровод (англ. *asset pipeline*).
 * [Browserify](/glossary/BROWSERIFY.md): инструмент, делающий возможным использование в браузере функции `require` из Node.js.
-* [Brunch](/glossary/BRUNCH.md): a tool focusing on the production of deployment-ready files from development files.
+* [Brunch](/glossary/BRUNCH.md): инструмент для производства готовых к деплою файлов из исходного кода проекта.
 
 ### C
 
