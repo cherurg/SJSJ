@@ -1,8 +1,8 @@
-# Closure
+# Closure (замыкание)
 
-A closure is function that closes over its environment. It has access to the state of the environment, but the variables inside the closure are private.
+Замыкание — это функция, имеющая доступ ко всем внешним переменным (переменным из родительских областей видимости), при этом создающая собственную область видимости, скрытую для внешнего кода. Иначе говоря, эта функция имеет доступ к значениям переменных из родительских функций, но её внутренние переменные являются для родительских функций приватными.
 
-Example:
+Пример:
 
 ```js
 (function (){
@@ -15,4 +15,4 @@ Example:
 })();
 ```
 
-`scopeVar` is accessible inside the outer and the inner function, but `closureVar` is only accessible inside the inner function.
+`scopeVar` доступна во внешней и внутренней функции, но `closureVar`  доступна только во внутренней функции.
