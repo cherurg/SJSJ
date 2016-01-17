@@ -57,12 +57,14 @@
 * [CoffeeScript](/glossary/COFFEESCRIPT.md): метаязык, компилируемый в JavaScript.
 * [CORS](/glossary/CORS.md): a way for a server to make things accessible to pages hosted on other domains.
 * [CouchDB](/glossary/COUCHDB.md): a NoSQL database with JavaScript as query language and HTTP as API.
-* [Currying](/glossary/CURRYING.md): a technnique that consists of changing a function that takes several arguments into a number of functions that each take one argument.
+* [CommonJS](/glossary/COMMONJS.md): *to be completed.*
+* [Currying](/glossary/CURRYING.md): the process to transform a function with multiple parameters into a chain of functions of one parameter.
 
 ### D
 
 * [D3.js](/glossary/D3JS.md): библиотека для обработки и визуализации данных.
 * [DOM](/glossary/DOM.md): не зависящий от платформы и языка программирования интерфейс, который позволяет программам и скриптам динамически получать доступ к документу и обновлять его содержимое, структуру и стили.
+* [Design Patterns](/glossary/DESIGN_PATTERNS.md): *to be completed.*
 
 ### E
 
@@ -73,8 +75,11 @@
 
 ### F
 
+* [Facade Pattern](/glossary/FACADE_PATTERN.md): *to be completed.*
+* [Factory Pattern](/glossary/FACTORY_PATTERN.md): *to be completed.*
 * [Falcor](/glossary/FALCOR.md): *to be completed.*
 * [Flux](/glossary/FLUX.md): структура приложения с форусом на улучшенном потоке данных.
+* [Four](/glossary/FOUR.md): a framework to develop 3D content for the web.
 
 ### G
 
@@ -93,7 +98,7 @@
 
 ### J
 
-* [Jasmine](/glossary/JASMINE.md): a testing framework for BDD.
+* [Jasmine](/glossary/JASMINE.md): a testing framework for BDD (Behaviour-Driven Development).
 * [jQuery](/glossary/JQUERY.md): быстрая, небольшая и богатая на возможности клиентская библиотека.
 * [JSCS](/glossary/JSCS.md): a JavaScript code linter.
 * [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
@@ -109,13 +114,18 @@
 ### L
 
 * [LocalForage](/glossary/LOCALFORAGE.md): *to be completed.*
-* [Lodash](/glossary/LODASH.md): a toolbelt with bunch of helpers to work with Javascript data types (string, object,...) in a much more simpler way.
+* [Lodash](/glossary/LODASH.md): an utility toolkit to extend JavaScript primitive types.
 
 ### M
 
 * [Meteor](/glossary/METEOR.md): JavaScript веб-фреймворк позволяющий вести быструю прототипную веб-разработку.
-* [Mocha](/glossary/MOCHA.md): an extensible testing framework for TDD or BDD.
+* [Mediator Pattern](/glossary/MEDIATOR_PATTERN.md): *to be completed.*
+* [Mocha](/glossary/MOCHA.md): an extensible testing framework for TDD (Test-Driven Development) or BDD (Behaviour-Driven Development).
+* [Memoize](/glossary/MEMOIZE.md): an optimization used to speed up consecutive function calls by caching the result of calls with identical input.
+* [Modernizr](/glossary/MODERNIZR.md): a browser feature detection library, useful to modify page styles when a feature is not available in the browser.
+* [Module Pattern](/glossary/MODULE_PATTERN.md): *to be completed.*
 * [Moment.js](/glossary/MOMENTJS.md): a library to parse, validate, manipulate and display dates.
+* [MongoDB](/glossary/MONGODB.md): a Javascript NoSQL database.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
 * [Metalsmith](/glossary/METALSMITH.md): a simple, pluggable static site generator.
 * [MEAN](/glossary/MEAN.md): the technology stack MongoDB, ExpressJS, AngularJS, and Node.js (MEAN).
@@ -123,35 +133,42 @@
 ### N
 
 * [Nightmare](/glossary/NIGHTMARE.md): a high-level browser automation library.
+* [NightwatchJS](/glossary/NIGHTWATCHJS): a framework for browser automated testing.
 * [Node.js](/glossary/NODEJS.md): кросcплатформенная среда выполнения на движке V8, предназначенная для разработки серверных приложений.
 * [npm](/glossary/NPM.md): инструмент для публикации и установки пакетов через npm-репозитории.
 * [nvm](/glossary/NVM.md): инструмент для запуска разных версий Node.js на одном и том же компьютере.
 
 ### O
 
+* [Observer Pattern](/glossary/OBSERVER_PATTERN.md): *to be completed.*
+
 ### P
 
 * [PhantomJS](/glossary/PHANTOMJS.md): *to be completed.*
 * [PhoneGap](/glossary/PHONEGAP.md): *to be completed.*
-* [Polymer](/glossary/POLYMER.md): *to be completed.*
+* [Polymer](/glossary/POLYMER.md): Google’s library for creating Web Components.
 * [Promise](/glossary/PROMISE.md): a proxy for a value not necessarily known immediately but that will eventually be resolved.
 * [Prototype](/glossary/PROTOTYPE.md): *to be completed.*
+* [Prototype Pattern](/glossary/PROTOTYPE_PATTERN.md): *to be completed.*
 
 ### Q
 
 * [QUnit](/glossary/QUNIT.md): *to be completed.*
+* [Q](/glossary/Q.md): a library to create and manage promises.
 
 ### R
 
 * [Ramda](/glossary/RAMDA.md): a practical functional library for Javascript programmers.
 * [React](/glossary/REACT.md): библиотека для создания пользовательских интерфейсов, разработанная и используемая в Facebook.
 * [Redux](/glossary/REDUX.md): a predictable state container for apps.
+* [Revealing Module Pattern](/glossary/REVEALING_MODULE_PATTERN.md): *to be completed.*
 * [RxJS](/glossary/RXJS.md): a library for asynchronous programming using observable streams.
-* [Require.js](/glossary/REQUIREJS.md): *to be completed.*
+* [Require.js](/glossary/REQUIREJS.md): a browser based module loader using AMD.
 
 ### S
 
 * [Sails](/glossary/SAILS.md): Node.js MVC-фреймворк для создания приложений, работающих в режиме реального времени.
+* [Singleton Pattern](/glossary/SINGLETON_PATTERN.md): *to be completed.*
 
 ### T
 
@@ -185,3 +202,5 @@
 * [Yeoman](/glossary/YEOMAN.md): a generator builder to speed up the setup and installation process of a project or part of a project.
 
 ### Z
+
+* [Zepto](/glossary/ZEPTO.md): a lightweight jQuery clone, without all the browser-compatibility specific code.
