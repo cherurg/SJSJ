@@ -1,3 +1,3 @@
 # Hoisting
 
-[“Hoisting”](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html) is an action performed by the JavaScript interpreter that moves function declarations of the form `function foo() {}`, and variable declarations of the form `var foo;` to the top of their containing scope. During this process, only the actual declarations are moved; any value assignments are left in the place where they were written.
+[Hoisting](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html) (рус. *поднятие*) — это действие, совершаемое JavaScript-интерпретатором и заключающееся в перемещении всех объявлений функций вида `function foo() {}` и всех объявлений переменных вида `var foo;` в верх их области видимости. Важно, что в самый верх перемещаются только объявления функций и переменных, но не их присвоенные значения.

@@ -89,7 +89,7 @@
 ### H
 
 * [Hapi](/glossary/HAPI.md): a Node JS framework for writing services and more.
-* [Hoisting](/glossary/HOISTING.md): an action performed by the JavaScript interpreter that moves function and variable declarations to the top of their containing scope.
+* [Hoisting](/glossary/HOISTING.md) (рус. *поднятие*): поднятие  JavaScript-интерпретатором объявлений функций и переменных в верх их области видимости.
 
 ### I
 
