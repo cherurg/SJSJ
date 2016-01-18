@@ -1,7 +1,7 @@
 # CouchDB
 
-[Apache CouchDB](http://couchdb.apache.org/), commonly referred to as CouchDB, is an open source database that focuses on ease of use and on being "a database that completely embraces the web".
+[Apache CouchDB](http://couchdb.apache.org/), часто называемая просто CouchDB — это простая в использовании база данных с открытым исходным кодом.
 
-It is a document-oriented NoSQL database that uses [JSON](JSON.md) to store data, JavaScript as its query language using MapReduce, and HTTP for an API.
+CouchDB — это документо-ориентированная NoSQL база данных, использующая [JSON](JSON.md) для хранения данных, JavaScript для обработки запросов (с использованием MapReduce) и HTTP для API.
 
-CouchDB was first released in 2005 and later became an Apache project in 2008.
+Первая версия CouchDB была выпущена в 2005 году. В 2008 году CouchDB стала проектом Apache.
