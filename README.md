@@ -78,7 +78,7 @@
 * [Facade Pattern](/glossary/FACADE_PATTERN.md): *to be completed.*
 * [Factory Pattern](/glossary/FACTORY_PATTERN.md): *to be completed.*
 * [Falcor](/glossary/FALCOR.md): *to be completed.*
-* [Flux](/glossary/FLUX.md): структура приложения с форусом на улучшенном потоке данных.
+* [Flux](/glossary/FLUX.md): структура приложения с фокусом на улучшенном потоке данных.
 * [Four](/glossary/FOUR.md): a framework to develop 3D content for the web.
 
 ### G
