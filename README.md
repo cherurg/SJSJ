@@ -58,7 +58,7 @@
 * [CORS](/glossary/CORS.md): a way for a server to make things accessible to pages hosted on other domains.
 * [CouchDB](/glossary/COUCHDB.md): NoSQL база данных, использующая JavaScript как язык запросов и HTTP как API.
 * [CommonJS](/glossary/COMMONJS.md): *to be completed.*
-* [Currying](/glossary/CURRYING.md): the process to transform a function with multiple parameters into a chain of functions of one parameter.
+* [Currying](/glossary/CURRYING.md) (рус. *каррирование*, *карринг*): процесс преобразования функции с несколькими аргументами в цепочку функций с одним аргументом.
 
 ### D
 

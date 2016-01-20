@@ -1,31 +1,30 @@
 # Currying
 
-Currying is the technique of translating the evaluation of a function that takes N arguments into evaluating a sequence of N functions, each with a single argument.
+Currying (рус. *каррирование*, *карринг*) — это техника преобразования функции с N аргументами, в цепочку из N функций, каждая из которых принимает по одному аргументу.
 
-This process is done by calling the function with one parameter, and return a new function with the parameter already bound inside a [closure](CLOSURE.md).
-
-For example, let’s say we have an `add` function that takes two parameters `a` and `b`:
+Это достигается при помощи создания функции с одним аргументом, которая возвращает новую функцию, которая будет связана с контекстом внешней через [замыкание](CLOSURE.md).
 
 ```js
-// The native function definition would be to have a and b as parameters:
-add(3, 5)
+// К примеру мы имеем функцию add, которая принимает два аргумента:
+add(3, 5);
 
-// After currying the function, we can then apply it like so:
-curryAdd(3)(5)
+// После каррирования функции add, сигнатура функции будет другая:
+curryAdd(3)(5);
 ```
 
-This is an interesting technique allowing to *partially call* a function, leaving the rest of the call for later.
-
-For instance, with our previous `curryAdd` function:
+Данная техника позволяет в частности создавать так называемые [частичные применения](PARTIAL_APPLICATION.md). В частности, для нашей функции:
 
 ```js
+// Создали частичное применение для функции add
+
 var add3 = curryAdd(3);
 var add10 = curryAdd(10);
 
-// Then we can call
-add3(5) // => 8
-add10(5) // => 15
+// И теперь мы можем переиспользовать функцию
+add3(5); // => 8
+add3(7); // => 10
+add3(17); // => 20
+add10(5); // => 15
 ```
 
-
-[Lodash](https://lodash.com/docs#curry), [Wu](https://fitzgen.github.io/wu.js/#curryable) and [Ramda](http://ramdajs.com/docs/#curry) are 3 of the many libraries that provide currying.
+Стоит отметить, что каррирование функции можно как описать самому, так и использовать библиотеки, в частности [Lodash](https://lodash.com/docs#curry), [Wu](https://fitzgen.github.io/wu.js/#curryable), [Ramda](http://ramdajs.com/docs/#curry).
