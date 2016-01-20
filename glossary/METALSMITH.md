@@ -1,6 +1,5 @@
 # Metalsmith
 
-[Metalsmith](http://metalsmith.io/) is an abstraction for manipulating a directory of files. To put it simply, it is a static site generator.
+[Metalsmith](http://metalsmith.io/) это абстракция для изменения директории файлов. Проще говоря, это генератор статических сайтов.
 
-Metalsmith, at its core, takes files in a source directory, perform operations on them via plugins, and writes those files into a destination directory. Plugins can do virtually anything: create new files, filter out files, modify files based on some logic, etc (note this means that plugin order does matter; transformations done by one plugin can be seen and used by following plugins, making the process a modular build pipeline). The entire ecosystem of plugins is what makes Metalsmith so flexible.
-
+Metalsmith, в своей основе, берет файлы в исходном каталоге, выполняет операции с помощью плагинов и записывает эти файлы в целевой каталог. Плагины могут виртуально выполнять разные функции: создавать новые файлы, фильтровать, изменять файлы по какому-то принципу, и т.д. (важно помнить, что порядок плагинов имеет значение, изменения сделанные одним плагином будут видны и использованы следующими плагинами, т.е. процесс выполняется модульно). Metalsmith легко настраиваемый за счет цельной экосистемы плагинов.
