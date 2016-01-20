@@ -1,7 +1,12 @@
 # CORS
 
-[CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) stands for Cross Origin Resource sharing. It’s a way for a server to allow pages hosted on other domains (technically other origins) to make http requests to it.
+[CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) — это механизм, позволяющий страницам из одного домена получать доступ к ограниченным ресурсам (например, шрифтам) другого домена.
 
-A web page can usually embed images, scripts, video, audio, etc. from any location it wants. However, web fonts and [AJAX](AJAX.md) requests can usually only make requests to the same origin the web page is served from, because of the [same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy). CORS allows a server to mark [resources](https://en.wikipedia.org/wiki/Web_resource) as shared with other origins, by sending an `Access-Control-Allow-Origin` [header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) in response to an [OPTIONS](http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.2) request from the browser.
+Вообще, веб-страница позволяет свободно встраивать различный контент, такой как изображения, скрипты, видео, аудио и пр. Тем не менее, [AJAX](AJAX.md)-запросы и веб-шрифты могут делать запросы только из того же источника, что и сама страница, согласно [принципу одинакового источника](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy).
 
-For information on how to set this up on your server, refer to [this document](http://enable-cors.org/server.html).
+Чтобы избежать этой проблемы, механизм CORS позволяет серверу отмечать такие ресурсы как доступные из других источников при помощи специального [заголовка](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) `Access-Control-Allow-Origin`. Иными словами, если сервер разрешает кросс-доменный запрос с домена `http://example.com` – он должен добавить к ответу заголовок `Access-Control-Allow-Origin`, содержащий домен запроса (`http://example.com`) или разрешить все домены (при помощи звёздочки «*»).
+
+### Ссылки:
+[W3C спецификация CORS](https://www.w3.org/TR/cors/)  
+[Браузеры, поддерживающие CORS](http://caniuse.com/#feat=cors)  
+[Инструкция для использования CORS на сервере](http://enable-cors.org/server.html).
