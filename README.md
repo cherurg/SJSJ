@@ -120,7 +120,7 @@
 
 * [Meteor](/glossary/METEOR.md): JavaScript веб-фреймворк позволяющий вести быструю прототипную веб-разработку.
 * [Mediator Pattern](/glossary/MEDIATOR_PATTERN.md): *to be completed.*
-* [Mocha](/glossary/MOCHA.md): an extensible testing framework for TDD (Test-Driven Development) or BDD (Behaviour-Driven Development).
+* [Mocha](/glossary/MOCHA.md) (рус. *мо́ка*): расширяемый BDD/TDD фреймворк для тестирования.
 * [Memoize](/glossary/MEMOIZE.md): an optimization used to speed up consecutive function calls by caching the result of calls with identical input.
 * [Modernizr](/glossary/MODERNIZR.md): a browser feature detection library, useful to modify page styles when a feature is not available in the browser.
 * [Module Pattern](/glossary/MODULE_PATTERN.md): *to be completed.*
