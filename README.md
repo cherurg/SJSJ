@@ -203,4 +203,4 @@
 
 ### Z
 
-* [Zepto](/glossary/ZEPTO.md): a lightweight jQuery clone, without all the browser-compatibility specific code.
+* [Zepto](/glossary/ZEPTO.md): легковесный клон jQuery, не создающий дополнительного кода для обеспечения браузерной совместимости.
