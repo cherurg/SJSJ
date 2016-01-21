@@ -125,9 +125,9 @@
 * [Modernizr](/glossary/MODERNIZR.md): a browser feature detection library, useful to modify page styles when a feature is not available in the browser.
 * [Module Pattern](/glossary/MODULE_PATTERN.md): *to be completed.*
 * [Moment.js](/glossary/MOMENTJS.md): a library to parse, validate, manipulate and display dates.
-* [MongoDB](/glossary/MONGODB.md): a Javascript NoSQL database.
+* [MongoDB](/glossary/MONGODB.md): документо-ориентированная база данных NoSQL.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
-* [Metalsmith](/glossary/METALSMITH.md): a simple, pluggable static site generator.
+* [Metalsmith](/glossary/METALSMITH.md): простой, модульный, генератор статических сайтов.
 * [MEAN](/glossary/MEAN.md): the technology stack MongoDB, ExpressJS, AngularJS, and Node.js (MEAN).
 
 ### N
