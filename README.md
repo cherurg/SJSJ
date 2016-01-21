@@ -114,7 +114,7 @@
 ### L
 
 * [LocalForage](/glossary/LOCALFORAGE.md): *to be completed.*
-* [Lodash](/glossary/LODASH.md): an utility toolkit to extend JavaScript primitive types.
+* [LoDash](/glossary/LODASH.md): библиотека, предоставляющая набор утилит для работы с объектами, массивами и функциями.
 
 ### M
 
