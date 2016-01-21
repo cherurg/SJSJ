@@ -55,7 +55,7 @@
 * [Chai](/glossary/CHAI.md): Assertion-библиотека, обычно используемая вместе с фреймворками для тестирования.
 * [Closure](/glossary/CLOSURE.md) (рус. *замыкание*): функция, вложенная в другие функции и имеющая доступ к переменным из внешних функций; при этом все её внутренние переменные скрыты для внешних функций.
 * [CoffeeScript](/glossary/COFFEESCRIPT.md): метаязык, компилируемый в JavaScript.
-* [CORS](/glossary/CORS.md): a way for a server to make things accessible to pages hosted on other domains.
+* [CORS](/glossary/CORS.md) (Cross-origin resource sharing): технология, позволяющая предоставлять веб-странице доступ к ресурсам другого домена.
 * [CouchDB](/glossary/COUCHDB.md): NoSQL база данных, использующая JavaScript как язык запросов и HTTP как API.
 * [CommonJS](/glossary/COMMONJS.md): *to be completed.*
 * [Currying](/glossary/CURRYING.md) (рус. *каррирование*, *карринг*): процесс преобразования функции с несколькими аргументами в цепочку функций с одним аргументом.
