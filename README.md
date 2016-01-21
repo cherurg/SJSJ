@@ -174,7 +174,7 @@
 ### T
 
 * [Three.js](/glossary/THREEJS.md): небольшая библиотека для создания и отображения анимированой 3D-графики в браузере.
-* [TypeScript](/glossary/TYPESCRIPT.md): a super-set of the JavaScript language that introduces types.
+* [TypeScript](/glossary/TYPESCRIPT.md): надмножество языка JavaScript, добавляющее поддержку использования классов, статического назначения типов.
 
 ### U
 
