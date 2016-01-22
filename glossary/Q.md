@@ -1,23 +1,23 @@
 # Q
 
-[Q](http://documentup.com/kriskowal/q/) is a [promise](PROMISE.md) library providing many more utilities than the native Promise implementation.
+[Q](http://documentup.com/kriskowal/q/) — библиотека [промисов](PROMISE.md), предоставляющая гораздо больше возможностей, чем нативная реализация Promise.
 
-List of features:
+Список возможностей:
 
-- Deferred values (old school): `Q.defer`
-- Multiple promises handling: `Q.all, Q.any, Q.spread`
-- Promise creation, resolve and reject: `Q(value), Q.when(value), Q.reject(value)`
-- Convert properties to promises: `Q.get, Q.set`
-- Convert functions to promises: `Q.fcall, Q.invoke`
-- Convert node-based callbacks to promises: `Q.nfcall, Q.ninvoke`
-- Convert timeout functions: `Q.timeout`
-- Support notify functions
-- Support chaining and tapping
+- Отложенные значения (deferred, устаревший стиль): `Q.defer`
+- Поддержка множественных промисов: `Q.all, Q.any, Q.spread`
+- Создание, разрешение и отклонение промисов: `Q(value), Q.when(value), Q.reject(value)`
+- Преобразование свойств в промисы: `Q.get, Q.set`
+- Преобразование функций в промисы: `Q.fcall, Q.invoke`
+- Преобразование node-коллбэков в промисы: `Q.nfcall, Q.ninvoke`
+- Преобразование таймаутов: `Q.timeout`
+- Поддерживает интерфейс notify (уведомление о пргрессе длительной асинхронной операции)
+- Поддерживает цепной вызов и сквозной вызов ([tapping](https://github.com/kriskowal/q/wiki/API-Reference#promisetaponfulfilled))
 
-Real world example from a [Node.js](NODEJS.md) application:
+Пример для [Node.js](NODEJS.md) приложения:
 
 ```js
-// Traditional implementation
+// Традиционная реализация
 function authenticate (req, res, next) {
   User.findOne({ id: req.id }, function (err, user) {
     if (err) {
@@ -30,7 +30,7 @@ function authenticate (req, res, next) {
   });
 }
 
-// Q Based
+// С помощью Q
 function authenticate(req, res, next) {
   return Q(req.id)
     .then(function (id) {
