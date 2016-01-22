@@ -128,7 +128,7 @@
 * [MongoDB](/glossary/MONGODB.md): документо-ориентированная база данных NoSQL, использующая JavaScript как язык запросов.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
 * [Metalsmith](/glossary/METALSMITH.md): простой модульный генератор статических сайтов.
-* [MEAN](/glossary/MEAN.md): the technology stack MongoDB, ExpressJS, AngularJS, and Node.js (MEAN).
+* [MEAN](/glossary/MEAN.md): набор программного обеспечения, который используется для веб-разработки. Название образовано от первых букв используемых инструментов (MongoDB, Express.js, Angular.js, Node.js)
 
 ### N
 

@@ -1,8 +1,15 @@
 # MEAN
 
-[MEAN](https://en.wikipedia.org/wiki/MEAN_(software_bundle)) — это набор технологий, использующих JavaScript для построения веб-сайтов и веб-приложений, состоящий из следующих компонентов: [MongoDB](MONGODB.md), [ExpressJS](EXPRESS.md), [Node.js](NODEJS.md), and [AngularJS](ANGULARJS.md).
+[MEAN](https://en.wikipedia.org/wiki/MEAN_(software_bundle)) — это набор технологий, использующих JavaScript для построения веб-сайтов и веб-приложений, состоящий из следующих компонентов:
+***
+[**M** ongoDB](MONGODB.md) — NoSQL СУБД;  
+[**E** xpressJS](EXPRESS.md) — серверный веб-фреймворк;  
+[**A** ngularJS](ANGULARJS.md) — клиентский MVC фреймворк;  
+[**N** ode.js](NODEJS.md) — среда исполнения Javascript;  
 
-## Известные MEAN-фреймворки
+### Известные MEAN-фреймворки
+[MEAN от meanjs.org](http://meanjs.org)  
+[Github](https://github.com/meanjs/mean)  
 
-* [MEAN.JS](http://meanjs.org) MEAN.JS - фулл-стэк (используется и в клиенте, и на серверной стороне) JavaScript-фреймворк от создателей MEAN.IO, который включает в себя MongoDB, Express, AngularJS, и Node.js.
-* [MEAN.io](http://mean.io/) MEAN — это самоуверенный фулл-стэк JavaScript-фреймворк, который упрощает и ускоряет разработку веб-приложений.
+[MEAN от mean.io](http://mean.io/)  
+[Github](https://github.com/linnovate/mean)
