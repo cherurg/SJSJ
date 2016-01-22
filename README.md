@@ -70,7 +70,7 @@
 
 * [ECMAScript](/glossary/ECMASCRIPT.md): стандартизованная спецификация скриптового языка, используемая в JavaScript.
 * [Ember](/glossary/EMBER.md): an application framework based on the model-view-controller pattern.
-* [ESLint](/glossary/ESLINT.md): a JavaScript code linter.
+* [ESLint](/glossary/ESLINT.md): анализатор JavaScript-кода.
 * [Express](/glossary/EXPRESS.md): a fast, un-opinionated, minimalist web framework for Node.js.
 
 ### F
@@ -128,7 +128,7 @@
 * [MongoDB](/glossary/MONGODB.md): документо-ориентированная база данных NoSQL, использующая JavaScript как язык запросов.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
 * [Metalsmith](/glossary/METALSMITH.md): простой модульный генератор статических сайтов.
-* [MEAN](/glossary/MEAN.md): the technology stack MongoDB, ExpressJS, AngularJS, and Node.js (MEAN).
+* [MEAN](/glossary/MEAN.md): технологический стек (набор ПО), используемый преимущественно для разработки веб-сервисов. Название образовано от первых букв инструментов, которые в него входят (MongoDB, Express.js, Angular.js, Node.js).
 
 ### N
 
@@ -155,7 +155,7 @@
 ### Q
 
 * [QUnit](/glossary/QUNIT.md): *to be completed.*
-* [Q](/glossary/Q.md): a library to create and manage promises.
+* [Q](/glossary/Q.md): библиотека для работы с промисами.
 
 ### R
 
@@ -196,7 +196,7 @@
 
 ### X
 
-* [XHR](/glossary/XHR.md) (XMLHttpRequest):  API, которое предоставляет возможность обмениваться данными между клиентом и сервером.
+* [XHR](/glossary/XHR.md) (XMLHttpRequest):  API, который предоставляет возможность обмениваться данными между клиентом и сервером.
 
 ### Y
 
