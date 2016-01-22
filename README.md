@@ -125,9 +125,9 @@
 * [Modernizr](/glossary/MODERNIZR.md): a browser feature detection library, useful to modify page styles when a feature is not available in the browser.
 * [Module Pattern](/glossary/MODULE_PATTERN.md): *to be completed.*
 * [Moment.js](/glossary/MOMENTJS.md): a library to parse, validate, manipulate and display dates.
-* [MongoDB](/glossary/MONGODB.md): NoSQL база данных, использующая JavaScript как язык запросов.
+* [MongoDB](/glossary/MONGODB.md): документо-ориентированная база данных NoSQL, использующая JavaScript как язык запросов.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
-* [Metalsmith](/glossary/METALSMITH.md): a simple, pluggable static site generator.
+* [Metalsmith](/glossary/METALSMITH.md): простой модульный генератор статических сайтов.
 * [MEAN](/glossary/MEAN.md): набор программного обеспечения, который используется для веб-разработки. Название образовано от первых букв используемых инструментов (MongoDB, Express.js, Angular.js, Node.js)
 
 ### N
@@ -196,7 +196,7 @@
 
 ### X
 
-* [XHR](/glossary/XHR.md) (XMLHttpRequest):  API, обеспечивающее сторону клиента нужной для передачи данных между клиентом и сервером функциональностью.
+* [XHR](/glossary/XHR.md) (XMLHttpRequest):  API, которое предоставляет возможность обмениваться данными между клиентом и сервером.
 
 ### Y
 
