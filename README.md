@@ -148,7 +148,7 @@
 * [PhantomJS](/glossary/PHANTOMJS.md): *to be completed.*
 * [PhoneGap](/glossary/PHONEGAP.md): *to be completed.*
 * [Polymer](/glossary/POLYMER.md): библиотека от Google для создания веб-компонентов.
-* [Promise](/glossary/PROMISE.md): a proxy for a value not necessarily known immediately but that will eventually be resolved.
+* [Promise](/glossary/PROMISE.md): объект, к которому можно обратиться за результатом, вычисление которого может быть не завершено на данный момент.
 * [Prototype](/glossary/PROTOTYPE.md): *to be completed.*
 * [Prototype Pattern](/glossary/PROTOTYPE_PATTERN.md): *to be completed.*
 
