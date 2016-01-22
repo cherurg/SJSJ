@@ -155,7 +155,7 @@
 ### Q
 
 * [QUnit](/glossary/QUNIT.md): *to be completed.*
-* [Q](/glossary/Q.md): a library to create and manage promises.
+* [Q](/glossary/Q.md): библиотека для создания и работы с промисами.
 
 ### R
 
