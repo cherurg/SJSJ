@@ -87,11 +87,11 @@
 ### H
 
 * [Hapi](/glossary/HAPI.md): a Node JS framework for writing services and more.
-* [Hoisting](/glossary/HOISTING.md) (рус. *поднятие*): поднятие  JavaScript-интерпретатором объявлений функций и переменных в верх их области видимости.
+* [Hoisting](/glossary/HOISTING.md) (рус. *поднятие*): поднятие JavaScript-интерпретатором объявлений функций и переменных в верх их области видимости.
 
 ### I
 
-* [IIFE](/glossary/IIFE.md) (Immediately Invoked Function Expression): — функция, вызываемая сразу же после своего описания.
+* [IIFE](/glossary/IIFE.md) (Immediately Invoked Function Expression): функция, вызываемая сразу же после своего описания.
 * [Isomorphic](/glossary/ISOMORPHIC.md) (рус. *изоморфный*): изоморфным (универсальным) называется приложение, которое может исполняться и на сервере, и на на клиенте.
 
 ### J
@@ -187,7 +187,7 @@
 ### X
 
 * [XHR](/glossary/XHR.md) (XMLHttpRequest): API, который предоставляет возможность обмениваться данными между клиентом и сервером.
-* [XML](/glossary/XML.md):  *to be completed.*
+* [XML](/glossary/XML.md): *to be completed.*
 
 ### Y
 
@@ -214,8 +214,8 @@
 * [Mixin Pattern](/glossary/MIXIN_PATTERN.md "Паттерн "Примесь""): *to be completed.*
 * [Module Pattern](/glossary/MODULE_PATTERN.md "Паттерн "Модуль""): *to be completed.*
 * [Observer Pattern](/glossary/OBSERVER_PATTERN.md "Паттерн "Наблюдатель""): *to be completed.*
-* [Prototype Pattern](/glossary/PROTOTYPE_PATTERN.md  "Паттерн "Прототип""): *to be completed.*
+* [Prototype Pattern](/glossary/PROTOTYPE_PATTERN.md "Паттерн "Прототип""): *to be completed.*
 * [Proxy Pattern](/glossary/PROXY_PATTERN.md "Паттерн "Прокси""): *to be completed.*
 * [Revealing Module Pattern](/glossary/REVEALING_MODULE_PATTERN.md "Паттерн "Открытый модуль""): *to be completed.*
 * [Revealing Prototype Pattern](/glossary/REVEALING_PROTOTYPE_PATTERN.md "Паттерн "Открытый прототип""): *to be completed.*
-* [Singleton Pattern](/glossary/SINGLETON_PATTERN.md  "Паттерн "Синглтон", он же "Одиночка""): *to be completed.*
+* [Singleton Pattern](/glossary/SINGLETON_PATTERN.md "Паттерн "Синглтон", он же "Одиночка""): *to be completed.*
