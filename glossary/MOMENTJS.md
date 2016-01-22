@@ -1,6 +1,6 @@
 # Moment.js
 
-[Moment.js](http://momentjs.com/) is a library that helps developing with dates. It supports manipulation of dates, parsing or validate dates, for example based on user inputs, and display dates in certain formats. The localization allows you to display or parse user friendly dates based on a locale and will also translated months etc.
-Moment.js can also handle durations, queries (like checking if a date is before another date) or custom extensions.
+[Moment.js](http://momentjs.com/) — библиотека для работы с датами. Умеет манипулировать датами, парсить и валидировать пользовательский ввод, отображать даты в заданном формате. С помощью языковых локализаций можно отображать или парсить даты по правилам различных стран, переводить названия месяцев, и т.д.
+Ещё Moment.js умеет работать с отрезаками времени (durations), проверять различные условия (например, сравнивать, какая из двух дат раньше), может также расширяться пользовательскими плагинами.
 
-[Moment Timezone](http://momentjs.com/timezone/) is a extension of Moment.js which supports to work with different timezones on dates. It can show a specific time in different timezones.
+[Moment Timezone](http://momentjs.com/timezone/) — это расширения Moment.js, позволяющее работать с различными часовыми поясами. Оно умеет показывать время в различных часовых поясах.
