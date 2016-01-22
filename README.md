@@ -70,7 +70,7 @@
 
 * [ECMAScript](/glossary/ECMASCRIPT.md): стандартизованная спецификация скриптового языка, используемая в JavaScript.
 * [Ember](/glossary/EMBER.md): an application framework based on the model-view-controller pattern.
-* [ESLint](/glossary/ESLINT.md): a JavaScript code linter.
+* [ESLint](/glossary/ESLINT.md): анализатор JavaScript-кода.
 * [Express](/glossary/EXPRESS.md): a fast, un-opinionated, minimalist web framework for Node.js.
 
 ### F
