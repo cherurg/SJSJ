@@ -1,5 +1,5 @@
 # ESLint
 
-[ESLint](http://eslint.org/) is the most recent out of the JavaScript linters out there. It was designed to be easily extensible, comes with a large number of custom rules, and is easy to install more in the form of plugins. It gives concise output, but includes the rule name by default so you always know which rules are causing the error messages.
+[ESLint](http://eslint.org/) — это один из новейших анализаторов JavaScript-кода. Легко расширяемый, он имеет большой набор произвольных правил, а также возможность установки новых, в виде плаинов. Отображая ошибки лаконично, он, тем не менее, по умолчанию показывает имя правила, чтобы можно было понять, какое правило обнаружило ошибку.
 
-There are two very popular ready to use configuration for ESLint: [standard](https://github.com/feross/standard) (no semicolons) and [semistandard](https://github.com/Flet/semistandard).
+Вот две самых популярных конфигурации для ESLint: [стандартная](https://github.com/feross/standard) (без точек с запятой) и [полу-стандартная](https://github.com/Flet/semistandard).
