@@ -155,7 +155,7 @@
 ### Q
 
 * [QUnit](/glossary/QUNIT.md): *to be completed.*
-* [Q](/glossary/Q.md): библиотека для создания и работы с промисами.
+* [Q](/glossary/Q.md): библиотека для работы с промисами.
 
 ### R
 
