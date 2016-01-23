@@ -200,7 +200,7 @@
 
 ### Y
 
-* [Yeoman](/glossary/YEOMAN.md): a generator builder to speed up the setup and installation process of a project or part of a project.
+* [Yeoman](/glossary/YEOMAN.md): построитель генераторов для ускорения настройки и сборки проекта или его части.
 
 ### Z
 
