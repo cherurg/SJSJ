@@ -1,4 +1,3 @@
 # Zepto
 
-[Zepto](http://zeptojs.com/) is a lightweight DOM library in the same flavor of [jQuery](JQUERY.md) but faster and much lighter. Its main purpose is to provide a faster implementation for people that do not intend to support all browsers and do not
-need to have all of jQuery’s features.
+[Zepto](http://zeptojs.com/) — это легковесная JS-библиотека для работы с DOM, подобная [jQuery](JQUERY.md), но быстрее и меньше. Её главное предназначение — обеспечить более быструю реализацию основных функций для людей, которым не критична поддержка всех браузеров и не нужны все возможности jQuery.

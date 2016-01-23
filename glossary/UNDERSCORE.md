@@ -1,3 +1,11 @@
 # Underscore
 
-[Underscore](http://underscorejs.org/) is a small library which provides many helpers to write JavaScript in a more functional way without extending built-in prototypes. It may be seen as the swiss army knife of JavaScript development, as it provides a helper for most API shortcomings of built-in objects.
+[Underscore](http://underscorejs.org/) — это невероятно удобная JavaScript-библиотека, этакий швейцарский нож для js-разработчика, набор функций-утилит, которые так привычны любителям функционального программирования. Однако в отличие от, например, prototype.js, underscore не модифицирует прототипы встроенных объектов JavaScript. Данная особенность гарантирует бесконфликтность, что позволяет замечательно сочетать этот инструмент с, например, [jQuery](JQUERY.md) или [Backbone](BACKBONE.md), или и тем и другим вместе.
+
+В состав Underscore входит более 80 функций, часть из которых решает более стандартные задачи, например, упрощает работу с коллекциями, а часть позволяет проще делать такие вещи как функциональное связывание, javascript-шаблонизация, проверки на равенство (напр. объектов), и т.д. Кроме того, Underscore умеет делегировать вызовы, т.е. если код выполняется в современном браузере, который имеет нативные реализации таких методов, как: forEach, map, reduce, filter, every, some и indexOf, то будут вызваны именно они.
+
+[Официальный сайт](http://underscorejs.org/)  
+[Русская версия оф. сайта](http://underscorejs.ru/)  
+[GitHub](https://github.com/jashkenas/underscore)
+
+Также см. [LoDash](LODASH.md)

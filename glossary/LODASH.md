@@ -1,16 +1,16 @@
-# Lodash
+# LoDash
 
-[Lodash](https://lodash.com) is a small [modularized](https://www.npmjs.com/browse/keyword/lodash-modularized) library which provides a bunch of helpers to work with Javascript data types (string, object, etc.) in a much more simpler way. Every single helper can be required and used itself without requiring the whole library. Additionally, it makes Javascript code look elegant and more efficient by offering functional style, method chaining and [more](https://lodash.com/#features).
+[LoDash](https://lodash.com) — небольшая библиотека, которая предоставляет набор утилит для удобной работы с типами данных javascript (строками, объектами и др.) Каждый отдельная утилита в библиотеке [самодостаточна](https://www.npmjs.com/browse/keyword/lodash-modularized) и может быть использована без подключения всей библиотеки. Дополнительно, эти утилиты делают код более элегантным и эффективным, предлагая разработчику такие удобства, как использование функционального стиля, цепочек методов и [других особенностей](https://lodash.com/#features).
 
-Think of Lodash as an utility library to simplify Javascript development by providing functions for Javascript basic types, such as:
-- Array manipulations: `map`, `reduce`, `filter`, `merge`, `difference`…
-- String transformations: `capitalize`, `camelCase`, `truncate`, `template`…
-- Collection querying: `find`, `where`, `contains`, `any`, `all`…
-- Object manipulations: `pick`, `omit`, `forIn`, `pluck`…
-- Property getters and setters: `property`, `method`, `get`, `set`…
-- Functional programing utilities: `partial`, `curry`, `compose`, `debounce`…
+LoDash упрощает работу с типами данных, предоставляя разработчику такие функции, как:
+- Обработка массивов: `map`, `reduce`, `filter`, `merge`, `difference`…
+- Трансформации строк: `capitalize`, `camelCase`, `truncate`, `template`…
+- Обработка коллекций: `find`, `where`, `contains`, `any`, `all`…
+- Обработка объектов: `pick`, `omit`, `forIn`, `pluck`…
+- Методы для работы с геттерами и сеттерами: `property`, `method`, `get`, `set`…
+- Утилиты для функционального программирования: `partial`, `curry`, `compose`, `debounce`…
 
-It also provides an API for chaining function calls in a “pipe-like” flavor:
+Также данный набор API позволяет вызывать функции в конвеерном стиле:
 
 ```js
 _.chain(myArray)
@@ -18,7 +18,10 @@ _.chain(myArray)
  .filter(x => x % 2)
  .sum()
  .value()
-  // returns the sum of myArray after multiplying all elements by 3 and rejecting the odd numbers
+ // возвращает сумму всех утроенных четных чисел в массиве myArray
 ```
 
-It may be seen as alternative of [Underscore](UNDERSCORE.md).
+[Официальный сайт](https://lodash.com/)
+[Github](https://github.com/lodash/lodash)
+
+Также см. [Underscore](UNDERSCORE.md)

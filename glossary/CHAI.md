@@ -1,5 +1,5 @@
 # Chai
 
-[Chai](http://chaijs.com/) is a Behavior Driven Development (BDD) / Test Driven Development (TDD) assertion library for [Node.js](NODEJS.md) and the browser. It can be paired with any JavaScript testing framework, such as [Mocha](MOCHA.md).
+[Chai](http://chaijs.com/) - это BDD/TDD assertion-библиотека для [Node.js](NODEJS.md) и браузеров. Обычно используется вместе с фреймворками для тестирования, такими как, например, [Mocha](MOCHA.md).
 
-The Chai assertion library allows you to write assertions in the classical form: `assert.typeOf(foo, 'string')`, but where Chai shines is its chain-capable style which makes writing assertions very readable: `expect(foo).to.be.a('string')`.
+Одной из особенностей данной библиотеки является возможность писать утверждения (assertions) не только в классической форме: `assert.typeOf(foo, 'string')`, но и в «цепочечной», что позволяет формулировать утверждения в более естественной, удобной и выразительной манере: `expect(foo).to.be.a('string')`.

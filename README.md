@@ -52,13 +52,13 @@
 ### C
 
 * [Canvas](/glossary/CANVAS.md): HTML-элемент для создания двумерных и трёхмерных графических приложений.
-* [Chai](/glossary/CHAI.md): an assertion library used with a JavaScript testing framework.
+* [Chai](/glossary/CHAI.md): Assertion-библиотека, обычно используемая вместе с фреймворками для тестирования.
 * [Closure](/glossary/CLOSURE.md) (рус. *замыкание*): функция, вложенная в другие функции и имеющая доступ к переменным из внешних функций; при этом все её внутренние переменные скрыты для внешних функций.
 * [CoffeeScript](/glossary/COFFEESCRIPT.md): метаязык, компилируемый в JavaScript.
-* [CORS](/glossary/CORS.md): a way for a server to make things accessible to pages hosted on other domains.
+* [CORS](/glossary/CORS.md) (Cross-origin resource sharing): технология, позволяющая предоставлять веб-странице доступ к ресурсам другого домена.
 * [CouchDB](/glossary/COUCHDB.md): NoSQL база данных, использующая JavaScript как язык запросов и HTTP как API.
 * [CommonJS](/glossary/COMMONJS.md): *to be completed.*
-* [Currying](/glossary/CURRYING.md): the process to transform a function with multiple parameters into a chain of functions of one parameter.
+* [Currying](/glossary/CURRYING.md) (рус. *каррирование*, *карринг*): процесс преобразования функции с несколькими аргументами в цепочку функций с одним аргументом.
 
 ### D
 
@@ -70,7 +70,7 @@
 
 * [ECMAScript](/glossary/ECMASCRIPT.md): стандартизованная спецификация скриптового языка, используемая в JavaScript.
 * [Ember](/glossary/EMBER.md): an application framework based on the model-view-controller pattern.
-* [ESLint](/glossary/ESLINT.md): a JavaScript code linter.
+* [ESLint](/glossary/ESLINT.md): анализатор JavaScript-кода.
 * [Express](/glossary/EXPRESS.md): a fast, un-opinionated, minimalist web framework for Node.js.
 
 ### F
@@ -114,21 +114,21 @@
 ### L
 
 * [LocalForage](/glossary/LOCALFORAGE.md): *to be completed.*
-* [Lodash](/glossary/LODASH.md): an utility toolkit to extend JavaScript primitive types.
+* [LoDash](/glossary/LODASH.md): библиотека, предоставляющая набор утилит для работы с объектами, массивами и функциями.
 
 ### M
 
 * [Meteor](/glossary/METEOR.md): JavaScript веб-фреймворк позволяющий вести быструю прототипную веб-разработку.
 * [Mediator Pattern](/glossary/MEDIATOR_PATTERN.md): *to be completed.*
-* [Mocha](/glossary/MOCHA.md): an extensible testing framework for TDD (Test-Driven Development) or BDD (Behaviour-Driven Development).
+* [Mocha](/glossary/MOCHA.md) (рус. *мо́ка*): расширяемый BDD/TDD фреймворк для тестирования.
 * [Memoize](/glossary/MEMOIZE.md): an optimization used to speed up consecutive function calls by caching the result of calls with identical input.
 * [Modernizr](/glossary/MODERNIZR.md): a browser feature detection library, useful to modify page styles when a feature is not available in the browser.
 * [Module Pattern](/glossary/MODULE_PATTERN.md): *to be completed.*
-* [Moment.js](/glossary/MOMENTJS.md): a library to parse, validate, manipulate and display dates.
-* [MongoDB](/glossary/MONGODB.md): a Javascript NoSQL database.
+* [Moment.js](/glossary/MOMENTJS.md): библиотека для работы с датами в JavaScript.
+* [MongoDB](/glossary/MONGODB.md): документо-ориентированная база данных NoSQL, использующая JavaScript как язык запросов.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
-* [Metalsmith](/glossary/METALSMITH.md): a simple, pluggable static site generator.
-* [MEAN](/glossary/MEAN.md): the technology stack MongoDB, ExpressJS, AngularJS, and Node.js (MEAN).
+* [Metalsmith](/glossary/METALSMITH.md): простой модульный генератор статических сайтов.
+* [MEAN](/glossary/MEAN.md): технологический стек (набор ПО), используемый преимущественно для разработки веб-сервисов. Название образовано от первых букв инструментов, которые в него входят (MongoDB, Express.js, Angular.js, Node.js).
 
 ### N
 
@@ -144,9 +144,10 @@
 
 ### P
 
+* [Partial Application](/glossary/PARTIAL_APPLICATION.md): *to be completed.*
 * [PhantomJS](/glossary/PHANTOMJS.md): *to be completed.*
 * [PhoneGap](/glossary/PHONEGAP.md): *to be completed.*
-* [Polymer](/glossary/POLYMER.md): Google’s library for creating Web Components.
+* [Polymer](/glossary/POLYMER.md): библиотека от Google для создания веб-компонентов.
 * [Promise](/glossary/PROMISE.md): a proxy for a value not necessarily known immediately but that will eventually be resolved.
 * [Prototype](/glossary/PROTOTYPE.md): *to be completed.*
 * [Prototype Pattern](/glossary/PROTOTYPE_PATTERN.md): *to be completed.*
@@ -154,7 +155,7 @@
 ### Q
 
 * [QUnit](/glossary/QUNIT.md): *to be completed.*
-* [Q](/glossary/Q.md): a library to create and manage promises.
+* [Q](/glossary/Q.md): библиотека для работы с промисами.
 
 ### R
 
@@ -173,18 +174,18 @@
 ### T
 
 * [Three.js](/glossary/THREEJS.md): небольшая библиотека для создания и отображения анимированой 3D-графики в браузере.
-* [TypeScript](/glossary/TYPESCRIPT.md): a super-set of the JavaScript language that introduces types.
+* [TypeScript](/glossary/TYPESCRIPT.md): надмножество языка JavaScript, добавляющее поддержку использования классов, статического назначения типов.
 
 ### U
 
 * [UMD](/glossary/UMD.md): a pattern of universal module definition for JavaScript modules.
-* [Underscore](/glossary/UNDERSCORE.md): a swiss army knife, focusing on helper methods for most built-in objects.
+* [Underscore](/glossary/UNDERSCORE.md): библиотека, предоставляющая набор утилит для работы с объектами, массивами и функциями.
 * [Universal](/glossary/UNIVERSAL.md): an application is said to be universal (isomorphic) when its code can run both in the client and the server.
 
 ### V
 
 * [V8](/glossary/V8.md): движок JavaScript с открытым исходным кодом, разрабатываемый Google. Это тот движок, который работает в Chrome, но он также используется для других проектов вроде Node.js и MongoDB.
-* [Vanilla](/glossary/VANILLA.md): a term for library/framework free JavaScript.
+* [Vanilla](/glossary/VANILLA.md): название для чистого JavaScript, без использования библиотек/фреймворков.
 * [Virtual DOM](/glossary/VIRTUAL_DOM.md): a copy of the DOM in memory that the program can modify instead of directly interfacing with the "real" DOM to help speed up interactions
 * [VueJS](/glossary/VUEJS.md): a library for creating user interfaces based on data models.
 
@@ -195,7 +196,7 @@
 
 ### X
 
-* [XHR](/glossary/XHR.md) (XMLHttpRequest):  API, обеспечивающее сторону клиента нужной для передачи данных между клиентом и сервером функциональностью.
+* [XHR](/glossary/XHR.md) (XMLHttpRequest):  API, который предоставляет возможность обмениваться данными между клиентом и сервером.
 
 ### Y
 
@@ -203,4 +204,4 @@
 
 ### Z
 
-* [Zepto](/glossary/ZEPTO.md): a lightweight jQuery clone, without all the browser-compatibility specific code.
+* [Zepto](/glossary/ZEPTO.md): легковесный клон jQuery, не содержащий дополнительного кода для обеспечения браузерной совместимости.
