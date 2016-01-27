@@ -97,7 +97,8 @@
 ### J
 
 * [Jasmine](/glossary/JASMINE.md): a testing framework for BDD (Behaviour-Driven Development).
-* [jQuery](/glossary/JQUERY.md): быстрая, небольшая и богатая на возможности клиентская библиотека.
+* [jQuery](/glossary/JQUERY.md): библиотека для работы с DOM и AJAX.
+* [jQuery UI](/glossary/JQUERY_UI.md): официальная библиотека jQuery для создания пользовательских интерфейсов.
 * [JSCS](/glossary/JSCS.md): a JavaScript code linter.
 * [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
 * [JSLint](/glossary/JSLINT.md): a JavaScript code linter.
