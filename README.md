@@ -122,7 +122,7 @@
 * [Mocha](/glossary/MOCHA.md) (рус. *мо́ка*): расширяемый BDD/TDD фреймворк для тестирования.
 * [Memoize](/glossary/MEMOIZE.md): an optimization used to speed up consecutive function calls by caching the result of calls with identical input.
 * [Modernizr](/glossary/MODERNIZR.md): a browser feature detection library, useful to modify page styles when a feature is not available in the browser.
-* [Moment.js](/glossary/MOMENTJS.md): библиотека для парсинга, валидации, изменения и отображения даты/времени.
+* [Moment.js](/glossary/MOMENTJS.md): библиотека для работы с датами и временем в JavaScript.
 * [MongoDB](/glossary/MONGODB.md): документо-ориентированная база данных NoSQL, использующая JavaScript как язык запросов.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
 * [Metalsmith](/glossary/METALSMITH.md): простой модульный генератор статических сайтов.
@@ -142,7 +142,7 @@
 * [PhantomJS](/glossary/PHANTOMJS.md): *to be completed.*
 * [PhoneGap](/glossary/PHONEGAP.md): *to be completed.*
 * [Polymer](/glossary/POLYMER.md): библиотека от Google для создания веб-компонентов.
-* [Promise](/glossary/PROMISE.md): a proxy for a value not necessarily known immediately but that will eventually be resolved.
+* [Promise](/glossary/PROMISE.md): специальный объект для работы с результатами выполнения асинхронного кода, получаемыми в неизвестный момент времени.
 * [Prototype](/glossary/PROTOTYPE.md): *to be completed.*
 
 ### Q
