@@ -178,7 +178,7 @@
 * [V8](/glossary/V8.md): движок JavaScript с открытым исходным кодом, разрабатываемый Google. Это тот движок, который работает в Chrome, но он также используется для других проектов вроде Node.js и MongoDB.
 * [Vanilla](/glossary/VANILLA.md): название для чистого JavaScript, без использования библиотек/фреймворков.
 * [Virtual DOM](/glossary/VIRTUAL_DOM.md): a copy of the DOM in memory that the program can modify instead of directly interfacing with the "real" DOM to help speed up interactions
-* [VueJS](/glossary/VUEJS.md): ,библиотека для разработки интерфейсов, основанная на моделях данных. 
+* [VueJS](/glossary/VUEJS.md): библиотека для разработки интерфейсов, основанная на моделях данных. 
 
 ### W
 
