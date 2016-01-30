@@ -187,7 +187,7 @@
 
 ### X
 
-* [XML](/glossary/XML.md) (от англ. *e**X**tensible **M**arkup **L**anguage* — «расширяемый язык разметки»): *to be completed.*
+* [XML](/glossary/XML.md) (от англ. _e**X**tensible **M**arkup **L**anguage_ — «расширяемый язык разметки»): *to be completed.*
 * [XMLHttpRequest](/glossary/XHR.md): API, который предоставляет возможность обмениваться данными между клиентом и сервером.
 
 ### Y
