@@ -1,5 +1,5 @@
 # WebGL
 
-[WebGL](https://www.khronos.org/webgl/) (Web Graphics Library) is a cross-platform, royalty-free web standard for a low-level 3D graphics API based on OpenGL ES 2.0, exposed through the HTML5 Canvas element as Document Object Model interfaces. Developers familiar with OpenGL ES 2.0 will recognize WebGL as a Shader-based API using GLSL, with constructs that are semantically similar to those of the underlying OpenGL ES 2.0 API. It stays very close to the OpenGL ES 2.0 specification, with some concessions made for what developers expect out of memory-managed languages such as JavaScript.
+[WebGL](https://www.khronos.org/webgl/) (Web Graphics Library) — это свободный кроссплатформенный стандарт для использования низкоуровневых API 3D графики в браузере на базе OpenGL ES 2.0. В браузерах он используется совместно с элементом [`<canvas>`](CANVAS.md). Разработчики, знакомые с OpenGL ES 2.0, увидят, что конструкции WebGL семантически схожи с теми, что лежат в основе OpenGL ES 2.0 API, а базируются они на Shader-based API с использованием GLSL. В целом, WebGL остается очень близок к спецификациям OpenGL ES 2.0, за исключением некоторых особенностей, связанных с управлением памятью в JavaScript и ему подобных языках.
 
-WebGL does so by introducing an API that closely conforms to OpenGL ES 2.0 that can be used in HTML5 [`<canvas>`](CANVAS.md) elements.
+WebGL предоставляет API, схожее с OpenGL ES 2.0, которое может применяться на элементах HTML5 [`<canvas>`](CANVAS.md).
