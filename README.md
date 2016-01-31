@@ -36,15 +36,15 @@
 
 ### A
 
-* [AJAX](/glossary/AJAX.md), рус. *ая́кс*: технология для совершения асинхронных HTTP-запросов.
-* [AMD](/glossary/AMD.md): стандарт, описывающий асинхронную загрузку JavaScript-библиотек или модулей.
+* [AJAX](/glossary/AJAX.md) (*ая́кс*, от англ. *Asynchronous Javascript and XML* — «асинхронный JavaScript и XML»): технология для совершения асинхронных HTTP-запросов.
+* [AMD](/glossary/AMD.md) (от англ. *Asynchronous Module Definition* — «асинхронное определение модуля»): стандарт, описывающий асинхронную загрузку JavaScript-библиотек или модулей.
 * [AngularJS](/glossary/ANGULARJS.md): фреймворк для разработки динамических веб-приложений.
 
 ### B
 
 * [Babel](/glossary/BABEL.md): инструментарий для трансформации JavaScript-кода, изначально был транспилером кода ECMAScript 2015 / ES6.
 * [Backbone](/glossary/BACKBONE.md): фреймворк для разработки динамических веб-приложений.
-* [Bluebird](/glossary/BLUEBIRD.md): полнофункциональная библиотека для работы с промисами с фокусом на современных возможностях и производительности.
+* [Bluebird](/glossary/BLUEBIRD.md): полнофункциональная библиотека для работы с [промисами](/glossary/PROMISE.md) с фокусом на современных возможностях и производительности.
 * [Bower](/glossary/BOWER.md): менеджер пакетов для фронтенд-зависимостей.
 * [Broccoli](/glossary/BROCCOLI.md): быстрый и надёжный файлопровод (англ. *asset pipeline*).
 * [Browserify](/glossary/BROWSERIFY.md): инструмент, делающий возможным использование в браузере функции `require` из Node.js.
@@ -56,7 +56,7 @@
 * [Chai](/glossary/CHAI.md): Assertion-библиотека, обычно используемая вместе с фреймворками для тестирования.
 * [Closure](/glossary/CLOSURE.md) (рус. *замыкание*): функция, вложенная в другие функции и имеющая доступ к переменным из внешних функций; при этом все её внутренние переменные скрыты для внешних функций.
 * [CoffeeScript](/glossary/COFFEESCRIPT.md): метаязык, компилируемый в JavaScript.
-* [CORS](/glossary/CORS.md) (Cross-origin resource sharing): технология, позволяющая предоставлять веб-странице доступ к ресурсам другого домена.
+* [CORS](/glossary/CORS.md) (от англ. *Cross-origin resource sharing* — «кроссдоменной обмен ресурсами»): технология, позволяющая предоставлять веб-странице доступ к ресурсам другого домена.
 * [CouchDB](/glossary/COUCHDB.md): NoSQL база данных, использующая JavaScript как язык запросов и HTTP как API.
 * [CommonJS](/glossary/COMMONJS.md): *to be completed.*
 * [Currying](/glossary/CURRYING.md) (рус. *каррирование*, *карринг*): процесс преобразования функции с несколькими аргументами в цепочку функций с одним аргументом.
@@ -64,7 +64,7 @@
 ### D
 
 * [D3.js](/glossary/D3JS.md): библиотека для обработки и визуализации данных.
-* [DOM](/glossary/DOM.md): не зависящий от платформы и языка программирования интерфейс, который позволяет программам и скриптам динамически получать доступ к документу и обновлять его содержимое, структуру и стили.
+* [DOM](/glossary/DOM.md) (от англ. *Document Object Model* — «объектная модель документа»): не зависящий от платформы и языка программирования интерфейс, который позволяет программам и скриптам динамически получать доступ к документу и обновлять его содержимое, структуру и стили.
 
 ### E
 
@@ -86,12 +86,12 @@
 
 ### H
 
-* [Hapi](/glossary/HAPI.md): a Node JS framework for writing services and more.
+* [Hapi](/glossary/HAPI.md): a Node.js framework for writing services and more.
 * [Hoisting](/glossary/HOISTING.md) (рус. *поднятие*): поднятие JavaScript-интерпретатором объявлений функций и переменных в верх их области видимости.
 
 ### I
 
-* [IIFE](/glossary/IIFE.md) (Immediately Invoked Function Expression): функция, вызываемая сразу же после своего описания.
+* [IIFE](/glossary/IIFE.md) (от англ. *Immediately-Invoked Function Expression* — «немедленно вызываемая функция»): функция, вызываемая сразу же после своего описания.
 * [Isomorphic](/glossary/ISOMORPHIC.md) (рус. *изоморфный*): приложение, которое может выполняться как на сервере, так и на клиенте.
 
 ### J
@@ -102,9 +102,9 @@
 * [JSCS](/glossary/JSCS.md): a JavaScript code linter.
 * [JSHint](/glossary/JSHINT.md): a JavaScript code linter.
 * [JSLint](/glossary/JSLINT.md): a JavaScript code linter.
-* [JSON](/glossary/JSON.md) (JavaScript Object Notation): легковесный формат обмена данными.
-* [JSONP](/glossary/JSONP.md): *to be completed.*
-* [JSON-LD](/glossary/JSON-LD.md): JSON for Linked Data.
+* [JSON](/glossary/JSON.md) (от англ. *JavaScript Object Notation* — «объектное представление Javascript»): легковесный формат обмена данными.
+* [JSONP](/glossary/JSONP.md) (англ. *JSON Padding* — «JSON с подкладкой»): *to be completed.*
+* [JSON-LD](/glossary/JSON-LD.md) (англ. *JSON for Linked Data* — «JSON для связанных данных»): *to be completed.*
 * [JSX](/glossary/JSX.md): расширение языка для использования XML-подобного синтаксиса в JavaScript.
 
 ### K
@@ -126,15 +126,15 @@
 * [MongoDB](/glossary/MONGODB.md): документо-ориентированная база данных NoSQL, использующая JavaScript как язык запросов.
 * [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
 * [Metalsmith](/glossary/METALSMITH.md): простой модульный генератор статических сайтов.
-* [MEAN](/glossary/MEAN.md): технологический стек (набор ПО), используемый преимущественно для разработки веб-сервисов. Название образовано от первых букв инструментов, которые в него входят (MongoDB, Express.js, Angular.js, Node.js).
+* [MEAN](/glossary/MEAN.md): технологический стек (набор ПО), используемый преимущественно для разработки веб-сервисов. Название образовано от первых букв инструментов, которые в него входят (**M**ongoDB, **E**xpress.js, **A**ngular.js, **N**ode.js).
 
 ### N
 
 * [Nightmare](/glossary/NIGHTMARE.md): a high-level browser automation library.
 * [NightwatchJS](/glossary/NIGHTWATCHJS): a framework for browser automated testing.
 * [Node.js](/glossary/NODEJS.md): кросcплатформенная среда выполнения на движке V8, предназначенная для разработки серверных приложений.
-* [npm](/glossary/NPM.md): инструмент для публикации и установки пакетов через npm-репозитории.
-* [nvm](/glossary/NVM.md): инструмент для запуска разных версий Node.js на одном и том же компьютере.
+* [npm](/glossary/NPM.md) (от англ. *node.js package manager* — «менеджер пакетов Node.js»): инструмент для публикации и установки пакетов через npm-репозитории.
+* [nvm](/glossary/NVM.md) (от англ. *node.js version manager* — «менеджер версий Node.js»): инструмент для запуска разных версий Node.js на одном и том же компьютере.
 
 ### P
 
@@ -148,7 +148,7 @@
 ### Q
 
 * [QUnit](/glossary/QUNIT.md): *to be completed.*
-* [Q](/glossary/Q.md): библиотека для работы с промисами.
+* [Q](/glossary/Q.md): библиотека для работы с [промисами](/glossary/PROMISE.md).
 
 ### R
 
@@ -169,7 +169,7 @@
 
 ### U
 
-* [UMD](/glossary/UMD.md): a pattern of universal module definition for JavaScript modules.
+* [UMD](/glossary/UMD.md) (от англ. *Universal Module Definition* — «универсальное определение модуля»): a pattern of universal module definition for JavaScript modules.
 * [Underscore](/glossary/UNDERSCORE.md): библиотека, предоставляющая набор утилит для работы с объектами, массивами и функциями.
 * [Universal](/glossary/UNIVERSAL.md): an application is said to be universal (isomorphic) when its code can run both in the client and the server.
 
@@ -182,13 +182,13 @@
 
 ### W
 
-* [WebGL](/glossary/WEBGL.md) (Web Graphics Library): a JavaScript API for rendering interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins.
+* [WebGL](/glossary/WEBGL.md) (от англ. *Web Graphics Library* — «графическая библиотека для Web»): a JavaScript API for rendering interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins.
 * [Webpack](/glossary/WEBPACK.md): менеджер зависимостей с дружественным и быстрым окружением для разработки, упрощающий множество распространённых задач.
 
 ### X
 
-* [XHR](/glossary/XHR.md) (XMLHttpRequest): API, который предоставляет возможность обмениваться данными между клиентом и сервером.
-* [XML](/glossary/XML.md): *to be completed.*
+* [XML](/glossary/XML.md) (от англ. _e**X**tensible **M**arkup **L**anguage_ — «расширяемый язык разметки»): *to be completed.*
+* [XMLHttpRequest](/glossary/XHR.md): API, который предоставляет возможность обмениваться данными между клиентом и сервером.
 
 ### Y
 
