@@ -169,20 +169,20 @@
 
 ### U
 
-* [UMD](/glossary/UMD.md): a pattern of universal module definition for JavaScript modules.
+* [UMD](/glossary/UMD.md): паттерн создания универсальных модулей JavaScript.
 * [Underscore](/glossary/UNDERSCORE.md): библиотека, предоставляющая набор утилит для работы с объектами, массивами и функциями.
-* [Universal](/glossary/UNIVERSAL.md): an application is said to be universal (isomorphic) when its code can run both in the client and the server.
+* [Universal](/glossary/UNIVERSAL.md): Приложение называется универсальным, если его код может исполняться как на клиенте, так и на сервере.
 
 ### V
 
 * [V8](/glossary/V8.md): движок JavaScript с открытым исходным кодом, разрабатываемый Google. Это тот движок, который работает в Chrome, но он также используется для других проектов вроде Node.js и MongoDB.
 * [Vanilla](/glossary/VANILLA.md): название для чистого JavaScript, без использования библиотек/фреймворков.
-* [Virtual DOM](/glossary/VIRTUAL_DOM.md): a copy of the DOM in memory that the program can modify instead of directly interfacing with the "real" DOM to help speed up interactions
+* [Virtual DOM](/glossary/VIRTUAL_DOM.md): копия DOM в пямяти, которая может быть модифицирована вместо работы с реальным DOM в целях улучшения производительности.
 * [VueJS](/glossary/VUEJS.md): библиотека для разработки интерфейсов, основанная на моделях данных. 
 
 ### W
 
-* [WebGL](/glossary/WEBGL.md) (Web Graphics Library): a JavaScript API for rendering interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins.
+* [WebGL](/glossary/WEBGL.md) (Web Graphics Library): JavaScript API для рендеринга интераквтивной 3D и 2D графики без использования плагинов во всех основных браузерах.
 * [Webpack](/glossary/WEBPACK.md): менеджер зависимостей с дружественным и быстрым окружением для разработки, упрощающий множество распространённых задач.
 
 ### X
