@@ -1,7 +1,7 @@
 # Universal
 
-A universal (or [isomorphic](ISOMORPHIC.md)) application is one whose code (in this case, JavaScript) can run both in the server and the client.
+Универсальным (Universal) (или [изоморфным](ISOMORPHIC.md)) называется приложение, код которого (в данном случае, JavaScript-код) может быть исполнен как на сервере, так и на клиенте.
 
-The underlying idea is to allow the server to render and handle routing of an application for non-JavaScript users, while also making it fully working in the browser for fast interactions without involving traditional page reloads.
+Ключевая идея состоит в том, что сервер может отрисовывать страницы и осуществлять маршрутизацию (routing). Это может пригодиться, например, если у пользователя отключен JavaScript. Приложение продолжит полностью функционировать, предоставляя пользователю возможность быстрого взаимодействия со страницей. При этом можно избежать традиционных перезагрузок страниц.
 
-In a universal application, the initial request made by the web browser is processed by the server while subsequent requests are processed by the client.
+В универсальных приложениях первый запрос от браузера обрабатывается сервером, а последующие — клиентом.

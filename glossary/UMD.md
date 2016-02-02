@@ -1,5 +1,5 @@
 # UMD
 
-[UMD](https://github.com/umdjs/umd) is a pattern of universal module definition for JavaScript modules. These modules are capable of working everywhere, be it in the client, on the server or elsewhere.
+[UMD](https://github.com/umdjs/umd) (Universal Module Definition, рус. *универсальное определение модуля*) — это паттерн универсального объявления модулей для JavaScript. Такие модули, как следует из названия, работают везде, будь то сервер, клиент или что угодно другое.
 
-The UMD pattern typically attempts to offer compatibility with the most popular script loaders of the day (e.g [RequireJS](REQUIREJS.md) amongst others). In many cases it uses AMD as a base, with special-casing added to handle [CommonJS](COMMONJS.md) compatibility.
+Паттерн UMD обеспечивает совместимость с наиболее популярными загрузчиками модулей (например, с [RequireJS](REQUIREJS.md)). В большинстве случаев UMD базируется на [AMD](AMD.md), но можно добавить специальную обертку для совместимости с модулями [CommonJS](COMMONJS.md).
