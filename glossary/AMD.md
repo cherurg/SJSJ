@@ -29,7 +29,7 @@ define(modulename?,[dependencyA?, dependencyB?, ...], function(objectA, objectB,
 
 - [Require JS](http://requirejs.org/docs/whyamd.html), написана [Джеймсом Бёрком](https://github.com/jrburke/) из Mozilla. Одна из первых библиотек, получивших широкое распространение, и всё ещё одна из самых популярных. Предоставляет ограниченную совместимость с CommonJS-модулями.
 - [CurlJS](https://github.com/cujojs/curl), часть фреймворка [CujoJS](http://cujojs.com/). CurlJS менее популярна, чем RequireJS. С 2014 года её поддерживают в рабочем состоянии, но не добавляют никаких новых возможностей.
-- [Alameda](https://github.com/requirejs/alameda), также написанная Джеймсом Бёрком. Похожа на RequireJS, но использует промисы для работы с результирующими событиями.
+- [Alameda](https://github.com/requirejs/alameda), также написанная Джеймсом Бёрком. Похожа на RequireJS, но использует [промисы](/glossary/PROMISE.md) для работы с результирующими событиями.
 - [Cajon](https://github.com/requirejs/cajon) также написанная Джеймсом Бёрком. Можно считать её декоратором для RequireJS, заменяющим метод `load` для загрузки зависимостей через Ajax.
 - [SystemJS](https://github.com/systemjs/systemjs), написана [Гаем Бедфордом](https://github.com/guybedford), который несколько лет назад был одним из  наиболее активных разработчиков плагинов для RequireJS. SystemJS может загружать модули AMD, CommonJS и ES6. Часто используется в связке с [jspm](http://jspm.io/) — менеджером зависимостей (наподобие [Bower](Bower.md)), подгружаемых с Github и NPM.
 
