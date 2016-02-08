@@ -8,7 +8,7 @@ AMD-библиотеки предоставляют глобальную фун�
 
 
 ```js
-define(modulename?,[dependencyA?, dependencyB?, ...], function(objectA, objectB, ...) {
+define(modulename?,[dependencyA?, dependencyB?, ...], function (objectA, objectB, ...) {
 ...
     var myExportedObj = function() {...}
     return myExportedObj;

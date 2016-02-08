@@ -4,7 +4,14 @@
 
 Этот репозиторий — перевод [оригинального словаря](https://github.com/HugoGiraudel/SJSJ). Если вы хотите принять участие в переводе, не стесняйтесь сделать пулл-реквест. Спасибо!
 
+## Связанные проекты
+
+* Инстурмент для чтения SJSJ в командной строке: https://github.com/hanksudo/SJSJ-cli
+* Расширение для Chrome от [ismnoiet](https://github.com/ismnoiet): https://github.com/ismnoiet/JSJargon
+* [Скрипт](#export-entries-as-json) для экспорта всех терминов в JSON
+
 ## Словарь
+=======
 
 [A](#a) ·
 [B](#b) ·
@@ -39,6 +46,8 @@
 * [AJAX](/glossary/AJAX.md) (*ая́кс*, от англ. *Asynchronous Javascript and XML* — «асинхронный JavaScript и XML»): технология для совершения асинхронных HTTP-запросов.
 * [AMD](/glossary/AMD.md) (от англ. *Asynchronous Module Definition* — «асинхронное определение модуля»): стандарт, описывающий асинхронную загрузку JavaScript-библиотек или модулей.
 * [AngularJS](/glossary/ANGULARJS.md): фреймворк для разработки динамических веб-приложений.
+* [Apache Cordova](/glossary/APACHECORDOVA.md) (formerly **PhoneGap**): a popular mobile application development framework originally created by Nitobi.
+* [Arity](/glossary/ARITY.md): the number of arguments of a function.
 
 ### B
 
@@ -52,26 +61,30 @@
 
 ### C
 
+<<<<<<< HEAD
 * [Canvas](/glossary/CANVAS.md): HTML-элемент для создания двумерных и трёхмерных графических приложений.
-* [Chai](/glossary/CHAI.md): Assertion-библиотека, обычно используемая вместе с фреймворками для тестирования.
+* [Chai](/glossary/CHAI.md): assertion-библиотека, обычно используемая вместе с фреймворками для тестирования.
 * [Closure](/glossary/CLOSURE.md) (рус. *замыкание*): функция, вложенная в другие функции и имеющая доступ к переменным из внешних функций; при этом все её внутренние переменные скрыты для внешних функций.
 * [CoffeeScript](/glossary/COFFEESCRIPT.md): метаязык, компилируемый в JavaScript.
+* [CommonJS](/glossary/COMMONJS.md): a project with the goal of specifying an ecosystem for JavaScript outside the browser (for example, on the server or for native desktop applications).
 * [CORS](/glossary/CORS.md) (от англ. *Cross-origin resource sharing* — «кроссдоменной обмен ресурсами»): технология, позволяющая предоставлять веб-странице доступ к ресурсам другого домена.
 * [CouchDB](/glossary/COUCHDB.md): NoSQL база данных, использующая JavaScript как язык запросов и HTTP как API.
-* [CommonJS](/glossary/COMMONJS.md): *to be completed.*
 * [Currying](/glossary/CURRYING.md) (рус. *каррирование*, *карринг*): процесс преобразования функции с несколькими аргументами в цепочку функций с одним аргументом.
 
 ### D
 
 * [D3.js](/glossary/D3JS.md): библиотека для обработки и визуализации данных.
+* [Design Patterns](/glossary/DESIGN_PATTERNS.md): a general reusable solution to a commonly occurring problem within a given context in software design.
 * [DOM](/glossary/DOM.md) (от англ. *Document Object Model* — «объектная модель документа»): не зависящий от платформы и языка программирования интерфейс, который позволяет программам и скриптам динамически получать доступ к документу и обновлять его содержимое, структуру и стили.
 
 ### E
 
 * [ECMAScript](/glossary/ECMASCRIPT.md): стандартизованная спецификация скриптового языка, используемая в JavaScript.
 * [Ember](/glossary/EMBER.md): an application framework based on the model-view-controller pattern.
+<<<<<<< HEAD
 * [ESLint](/glossary/ESLINT.md): анализатор JavaScript-кода.
 * [Express](/glossary/EXPRESS.md): быстрый минималистичный фреймворк для разработки веб-приложений на Node.js.
+* [Ext JS](/glossary/EXTJS.md): a pure JavaScript application framework for building interactive cross platform web applications.
 
 ### F
 
@@ -120,6 +133,9 @@
 
 * [Meteor](/glossary/METEOR.md): JavaScript веб-фреймворк позволяющий вести быструю прототипную веб-разработку.
 * [Mocha](/glossary/MOCHA.md) (рус. *мо́ка*): расширяемый BDD/TDD фреймворк для тестирования.
+
+### M
+
 * [Memoize](/glossary/MEMOIZE.md): an optimization used to speed up consecutive function calls by caching the result of calls with identical input.
 * [Modernizr](/glossary/MODERNIZR.md): a browser feature detection library, useful to modify page styles when a feature is not available in the browser.
 * [Moment.js](/glossary/MOMENTJS.md): библиотека для работы с датами и временем в JavaScript.
@@ -139,15 +155,15 @@
 ### P
 
 * [Partial Application](/glossary/PARTIAL_APPLICATION.md): *to be completed.*
-* [PhantomJS](/glossary/PHANTOMJS.md): *to be completed.*
+* [PhantomJS](/glossary/PHANTOMJS.md): a scripted, headless browser used for automating web page interaction.
 * [PhoneGap](/glossary/PHONEGAP.md): *to be completed.*
 * [Polymer](/glossary/POLYMER.md): библиотека от Google для создания веб-компонентов.
 * [Promise](/glossary/PROMISE.md): специальный объект для работы с результатами выполнения асинхронного кода, получаемыми в неизвестный момент времени.
-* [Prototype](/glossary/PROTOTYPE.md): *to be completed.*
+* [Prototype.js](/glossary/PROTOTYPEJS.md): a JavaScript framework that aims to ease development of dynamic web applications. It offers a familiar class-style OO framework, extensive Ajax support, higher-order programming constructs, and easy DOM manipulation.
 
 ### Q
 
-* [QUnit](/glossary/QUNIT.md): *to be completed.*
+* [QUnit](/glossary/QUNIT.md): a powerful, easy-to-use JavaScript unit testing framework.
 * [Q](/glossary/Q.md): библиотека для работы с [промисами](/glossary/PROMISE.md).
 
 ### R
@@ -200,23 +216,20 @@
 
 ###<a name="patterns"/> Паттерны проектирования
 
-* [Adapter Pattern](/glossary/ADAPTER_PATTERN.md "Паттерн "Адаптер""): *to be completed.*
-* [Builder Pattern](/glossary/BUILDER_PATTERN.md "Паттерн "Строитель""): *to be completed.*
-* [Command Pattern](/glossary/COMMAND_PATTERN.md "Паттерн "Команда""): *to be completed.*
-* [Composite Pattern](/glossary/COMPOSITE_PATTERN.md "Паттерн "Компоновщик""): *to be completed.*
-* [Constructor Pattern](/glossary/CONSTRUCTOR_PATTERN.md "Паттерн "Конструктор""): *to be completed.*
-* [Decorator Pattern](/glossary/DECORATOR_PATTERN.md "Паттерн "Декоратор""): *to be completed.*
-* [Facade Pattern](/glossary/FACADE_PATTERN.md "Паттерн "Фасад""): *to be completed.*
-* [Factory Pattern](/glossary/FACTORY_PATTERN.md "Паттерн "Фабрика""): *to be completed.*
-* [Flyweight Pattern](/glossary/FLYWEIGHT_PATTERN.md "Паттерн "Приспособленец""): *to be completed.*
-* [Iterator Pattern](/glossary/ITERATOR_PATTERN.md "Паттерн "Итератор""): *to be completed.*
-* [Lazy Initialization Pattern](/glossary/LAZY_INITIALIZATION_PATTERN.md "Паттерн "Ленивая инициализация""): *to be completed.*
-* [Mediator Pattern](/glossary/MEDIATOR_PATTERN.md "Паттерн "Медиатор", он же "Приспособленец""): *to be completed.*
-* [Mixin Pattern](/glossary/MIXIN_PATTERN.md "Паттерн "Примесь""): *to be completed.*
-* [Module Pattern](/glossary/MODULE_PATTERN.md "Паттерн "Модуль""): *to be completed.*
-* [Observer Pattern](/glossary/OBSERVER_PATTERN.md "Паттерн "Наблюдатель""): *to be completed.*
-* [Prototype Pattern](/glossary/PROTOTYPE_PATTERN.md "Паттерн "Прототип""): *to be completed.*
-* [Proxy Pattern](/glossary/PROXY_PATTERN.md "Паттерн "Прокси""): *to be completed.*
-* [Revealing Module Pattern](/glossary/REVEALING_MODULE_PATTERN.md "Паттерн "Открытый модуль""): *to be completed.*
-* [Revealing Prototype Pattern](/glossary/REVEALING_PROTOTYPE_PATTERN.md "Паттерн "Открытый прототип""): *to be completed.*
-* [Singleton Pattern](/glossary/SINGLETON_PATTERN.md "Паттерн "Синглтон", он же "Одиночка""): *to be completed.*
+* [Facade Pattern](/glossary/FACADE_PATTERN.md): a software design pattern commonly used with object-oriented programming. The name is by analogy to an architectural facade.
+* [Factory Pattern](/glossary/FACTORY_PATTERN.md): a creational pattern that uses factory methods to deal with the problem of creating objects without having to specify the exact class of the object that will be created.
+* [Mediator Pattern](/glossary/MEDIATOR_PATTERN.md): an object that encapsulates how a set of objects interact.
+* [Module Pattern](/glossary/MODULE_PATTERN.md):  a design pattern used to implement the concept of software modules, defined by modular programming, in a programming language with incomplete direct support for the concept.
+* [Observer Pattern](/glossary/OBSERVER_PATTERN.md):  a software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.
+* [Prototype Pattern](/glossary/PROTOTYPE_PATTERN.md): a creational design pattern in software development. It is used when the type of objects to create is determined by a prototypical instance, which is cloned to produce new objects.
+* [Revealing Module Pattern](/glossary/REVEALING_MODULE_PATTERN.md): a design pattern conceptually based on the [Module Pattern](/glossary/MODULE_PATTERN.md). The only difference is that the *revealing module pattern* was engineered as a way to ensure that all methods and variables are kept private until they are explicitly exposed.
+* [Singleton Pattern](/glossary/SINGLETON_PATTERN.md): a design pattern that restricts the instantiation of a class to one object.
+
+## Экспорт всех терминов в JSON
+
+В этом репозитории хранится небольшой Node.js-скрипт, экспортирующий все термины в JSON. Для использования скрипта клонируйте репозиторий и выполните следующие команды:
+
+```sh
+npm install
+npm run export -- data.json
+```
