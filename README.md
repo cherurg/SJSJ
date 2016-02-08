@@ -225,7 +225,7 @@
 * [Revealing Module Pattern](/glossary/REVEALING_MODULE_PATTERN.md): a design pattern conceptually based on the [Module Pattern](/glossary/MODULE_PATTERN.md). The only difference is that the *revealing module pattern* was engineered as a way to ensure that all methods and variables are kept private until they are explicitly exposed.
 * [Singleton Pattern](/glossary/SINGLETON_PATTERN.md): a design pattern that restricts the instantiation of a class to one object.
 
-## Экспорт всех терминов в JSON
+##<a name="export-entries-as-json"/>  Экспорт всех терминов в JSON
 
 В этом репозитории хранится небольшой Node.js-скрипт, экспортирующий все термины в JSON. Для использования скрипта клонируйте репозиторий и выполните следующие команды:
 
