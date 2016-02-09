@@ -27,4 +27,4 @@ add3(17); // => 20
 add10(5); // => 15
 ```
 
-Стоит отметить, что для каррирования можно использовать как собственное, так и готовое решение. [Lodash](https://lodash.com/docs#curry), [Wu](https://fitzgen.github.io/wu.js/#curryable) и [Ramda](http://ramdajs.com/docs/#curry) — это лишь три примера из множества библиотек, предоставляющих готовые инструменты для каррирования.
+Стоит отметить, что реализацию каррирования можно как описать самому, так и использовать готовые решения, в частности [Lodash](https://lodash.com/docs#curry), [Wu](https://fitzgen.github.io/wu.js/#curryable), [Ramda](http://ramdajs.com/docs/#curry).
