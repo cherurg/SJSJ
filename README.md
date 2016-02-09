@@ -8,7 +8,7 @@
 
 * [Инструмент для чтения](https://github.com/hanksudo/SJSJ-cli) SJSJ в командной строке;
 * [Расширение для Chrome](https://github.com/ismnoiet/JSJargon) от [ismnoiet](https://github.com/ismnoiet);
-* [Скрипт](#exportjson) для экспорта всех терминов в JSON;
+* [Скрипт](#exportjson) для экспорта всех терминов в JSON.
 
 ## Словарь
 
