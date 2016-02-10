@@ -1,3 +1,3 @@
 # jQuery UI
 
-[jQuery UI](#) — *to be completed*
+[jQuery UI](#) section to be completed.
