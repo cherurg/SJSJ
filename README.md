@@ -85,7 +85,7 @@
 
 ### F
 
-* [Falcor](/glossary/FALCOR.md): *to be completed.*
+* [Falcor](/glossary/FALCOR.md): a JavaScript library for efficient data fetching.
 * [Flux](/glossary/FLUX.md): структура приложения с фокусом на улучшенном потоке данных.
 * [Four](/glossary/FOUR.md): a framework to develop 3D content for the web.
 
@@ -123,7 +123,7 @@
 
 ### L
 
-* [LocalForage](/glossary/LOCALFORAGE.md): *to be completed.*
+* [LocalForage](/glossary/LOCALFORAGE.md): a fast and simple storage library for JavaScript.
 * [LoDash](/glossary/LODASH.md): библиотека, предоставляющая набор утилит для работы с объектами, массивами и функциями.
 
 ### M
@@ -134,7 +134,7 @@
 * [Modernizr](/glossary/MODERNIZR.md): a browser feature detection library, useful to modify page styles when a feature is not available in the browser.
 * [Moment.js](/glossary/MOMENTJS.md): библиотека для работы с датами и временем в JavaScript.
 * [MongoDB](/glossary/MONGODB.md): документо-ориентированная база данных NoSQL, использующая JavaScript как язык запросов.
-* [Mootools](/glossary/MOOTOOLS.md): *to be completed.*
+* [Mootools](/glossary/MOOTOOLS.md): a collection of JavaScript utilities designed for the intermediate to advanced JavaScript developer. It allows you to write powerful and flexible code with its elegant, well documented, and coherent APIs.
 * [Metalsmith](/glossary/METALSMITH.md): простой модульный генератор статических сайтов.
 * [MEAN](/glossary/MEAN.md): технологический стек (набор ПО), используемый преимущественно для разработки веб-сервисов. Название образовано от первых букв инструментов, которые в него входят (**M**ongoDB, **E**xpress.js, **A**ngular.js, **N**ode.js).
 
@@ -150,7 +150,6 @@
 
 * [Partial Application](/glossary/PARTIAL_APPLICATION.md): *to be completed.*
 * [PhantomJS](/glossary/PHANTOMJS.md): a scripted, headless browser used for automating web page interaction.
-* [PhoneGap](/glossary/PHONEGAP.md): *to be completed.*
 * [Polymer](/glossary/POLYMER.md): библиотека от Google для создания веб-компонентов.
 * [Promise](/glossary/PROMISE.md): специальный объект для работы с результатами выполнения асинхронного кода, получаемыми в неизвестный момент времени.
 * [Prototype (ООП)](/glossary/PROTOTYPE.md): *to be completed.*
@@ -232,7 +231,7 @@
 * [Revealing Prototype Pattern](/glossary/REVEALING_PROTOTYPE_PATTERN.md "Паттерн "Открытый прототип""): *to be completed.*
 * [Singleton Pattern](/glossary/SINGLETON_PATTERN.md "Паттерн "Синглтон", он же "Одиночка""): a design pattern that restricts the instantiation of a class to one object.
 
-##<a name="exportjson"/> Экспорт всех терминов в JSON
+##<a name="exportjson"/> Экспорт терминов в JSON
 
 Этот репозиторий содержит небольшой Node.js-скрипт, экспортирующий все термины в JSON. Для использования скрипта клонируйте репозиторий и выполните следующие команды:
 

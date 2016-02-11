@@ -1,3 +1,3 @@
 # Prototype (ООП)
 
-[Prototype (ООП)](#) to be completed
+[Prototype (ООП)](#) section to be completed.
