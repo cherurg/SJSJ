@@ -1,7 +1,5 @@
 # PhantomJS
 
-[PhantomJS](http://phantomjs.org/) is a headless WebKit scriptable with a JavaScript API. It has **fast** and **native** support for various web standards: DOM handling, CSS selectors, JSON, Canvas, and SVG.
-
 [PhantomJS](http://phantomjs.org/) браузер на движке WebKit без пользовательского интерфейса c JavaScript API. Имеет **быструю** и **нативную** поддержку различных веб-стандартов, таких как: манипуляции с DOM, CSS селекторы, JSON, Canvas и SVG.
 
 ## Способы применения
