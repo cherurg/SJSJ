@@ -149,7 +149,7 @@
 ### P
 
 * [Partial Application](/glossary/PARTIAL_APPLICATION.md): *to be completed.*
-* [PhantomJS](/glossary/PHANTOMJS.md): a scripted, headless browser used for automating web page interaction.
+* [PhantomJS](/glossary/PHANTOMJS.md): браузер без пользовательского интерфейса, используемый для автоматизации взаимодействия со страницами, в том числе для тестирования кода.
 * [Polymer](/glossary/POLYMER.md): библиотека от Google для создания веб-компонентов.
 * [Promise](/glossary/PROMISE.md): специальный объект для работы с результатами выполнения асинхронного кода, получаемыми в неизвестный момент времени.
 * [Prototype (ООП)](/glossary/PROTOTYPE.md): *to be completed.*
