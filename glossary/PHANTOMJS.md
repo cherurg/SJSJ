@@ -1,12 +1,13 @@
 # PhantomJS
 
 [PhantomJS](http://phantomjs.org/) is a headless WebKit scriptable with a JavaScript API. It has **fast** and **native** support for various web standards: DOM handling, CSS selectors, JSON, Canvas, and SVG.
-[PhantomJS](http://phantomjs.org/) is a headless WebKit scriptable with a JavaScript API. It has **fast** and **native** support for various web standards: DOM handling, CSS selectors, JSON, Canvas, and SVG.
 
-## Use Cases
+[PhantomJS](http://phantomjs.org/) браузер на движке WebKit без пользовательского интерфейса c JavaScript API. Имеет **быструю** и **нативную** поддержку различных веб-стандартов, таких как: манипуляции с DOM, CSS селекторы, JSON, Canvas и SVG.
 
-- **Headless web testing**. Lightning-fast testing without the browser is now possible! Various [test frameworks](http://phantomjs.org/headless-testing.html) such as [Jasmine](https://github.com/HugoGiraudel/SJSJ/blob/master/glossary/JASMINE.md), Capybara, [QUnit](https://github.com/HugoGiraudel/SJSJ/blob/master/glossary/QUNIT.md), [Mocha](https://github.com/HugoGiraudel/SJSJ/blob/master/glossary/MOCHA.md), WebDriver, YUI Test, BusterJS, FuncUnit, Robot Framework, and many others are supported.
-- **Page automation.** [Access and manipulate](http://phantomjs.org/page-automation.html) web pages with the standard DOM API, or with usual libraries like [jQuery](https://github.com/HugoGiraudel/SJSJ/blob/master/glossary/JQUERY.md).
+## Способы применения
+
+- **Тестирование без пользовательского интерфейса**. Полноценное тестирование без браузера невозможно. Различные [фреймворки для тестирования](http://phantomjs.org/headless-testing.html), такие как: [Jasmine](https://github.com/andrew--r/SJSJ/blob/master/glossary/JASMINE.md), Capybara, [QUnit](https://github.com/andrew--r/SJSJ/blob/master/glossary/QUNIT.md), [Mocha](https://github.com/andrew--r/SJSJ/blob/master/glossary/MOCHA.md), WebDriver, YUI Test, BusterJS, FuncUnit, Robot Framework, и многие другие поддерживаются PhantomJS.
+- **Автоматизация на страницах** [Загружайте и меняйте](http://phantomjs.org/page-automation.html)страницы с помощью стандартного DOM API или с помощью привычных библиотек вроде [jQuery](https://github.com/andrew--r/SJSJ/blob/master/glossary/JQUERY.md).
 - **Screen capture.** Programmatically [capture web contents](http://phantomjs.org/screen-capture.html), including CSS, SVG and Canvas. Build server-side web graphics apps, from a screenshot service to a vector chart rasterizer.
 - **Network monitoring.** Automate performance analysis, track [page loading](http://phantomjs.org/network-monitoring.html) and export as standard HAR format.
 
